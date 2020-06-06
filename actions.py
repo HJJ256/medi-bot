@@ -59,8 +59,8 @@ gc = Client(None, session)
 
 
 # Getting Sheets
-ms_sm_wks = gc.open_by_key('1Yvj_6fY5ac1q9WZwpR9YlNlfwEDLYnzEPFsOJiOjCvI').worksheet("intents")
-disease_symptom_overview = gc.open_by_key('1x8dYkNMEwOlihGI_a07ikyJlcd725sMcywc65LLJLIo').worksheet("new_disease_dataframe")
+ms_sm_wks = gc.open_by_key('').worksheet("intents")
+disease_symptom_overview = gc.open_by_key('').worksheet("new_disease_dataframe")
 
 class ActionResponse(Action):
   def name(self) -> Text:
