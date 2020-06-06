@@ -1,0 +1,102 @@
+intents:
+- smalltalk.1_greetings.good_night
+- smalltalk.1_greetings.goodbye
+- smalltalk.1_greetings.goodevening
+- smalltalk.1_greetings.goodmorning
+- smalltalk.1_greetings.greet
+- smalltalk.1_greetings.how_are_you
+- smalltalk.1_greetings.nice_to_see_you
+- smalltalk.1_greetings.thank
+- smalltalk.1_greetings.wants_to_talk
+- smalltalk.2_emotions.ha_ha
+- smalltalk.2_emotions.wow
+- smalltalk.3_about_user.back
+- smalltalk.3_about_user.bored
+- smalltalk.3_about_user.busy
+- smalltalk.3_about_user.does_not_want_to_talk
+- smalltalk.3_about_user.excited
+- smalltalk.3_about_user.mood_great
+- smalltalk.3_about_user.mood_unhappy
+- smalltalk.3_about_user.sleepy
+- smalltalk.3_about_user.tired
+- smalltalk.4_courtesy.affirm
+- smalltalk.4_courtesy.deny
+- smalltalk.4_courtesy.hold_on
+- smalltalk.4_courtesy.i_do_not_care
+- smalltalk.4_courtesy.sorry
+- smalltalk.4_courtesy.what_do_you_mean
+- smalltalk.4_courtesy.wrong
+- smalltalk.5_about_chatbot.are_you_bot
+- smalltalk.5_about_chatbot.ask_languagesbot
+- smalltalk.5_about_chatbot.beautiful
+- smalltalk.5_about_chatbot.canthelp
+- smalltalk.5_about_chatbot.how_old_are_you
+- smalltalk.5_about_chatbot.what_can_you_do
+- smalltalk.5_about_chatbot.who_are_you
+- smalltalk.5_about_chatbot.who_made_you
+- smalltalk.5_about_chatbot.will_you_marry_me
+- about_treatment
+- overveiw
+- about_symptoms
+- prevention
+- causes
+- smalltalk.3_about_user.wants_a_joke
+- shantanu_img
+- shantanu_btn
+- shantanu_text
+- shantanu_text_img_button
+- shantanu_img_btn
+- symptom_checker
+- age
+- sex
+- smalltalks_recommendations
+- out_of_scope
+- locate_clinic
+- locate_doctor
+- activate_symptom_checker
+- start_symptoms_checker
+- start_symptom_checker
+- locate
+- causes_hinglish
+- prevention_hinglish
+entities:
+- disease
+- sex
+- age
+- current_location
+slots:
+  age:
+    type: text
+  current_location:
+    type: unfeaturized
+  disease:
+    type: unfeaturized
+  sex:
+    type: text
+templates:
+  utter_symptoms:
+  - text: What are your symptoms? write down your symptoms seprated by comma
+  - text: You can start listing them for me to help you out (Write them down seprated by commas)
+  utter_out_of_scope:
+  - text: Sorry, I can’t deal with that request please rephrase it.
+  - text: I'm sorry, I can't handle that request,could you please rephrase it.
+  - text: I can't help you with that, I'm sorry,could you rephrase it once again.
+  utter_anything_else:
+  - text: Is there anything else I can help you with?
+  utter_default:
+  - text: Please rephrase your sentance again :)
+actions:
+- action_response
+- action_symptoms
+- action_overview
+- action_treatment
+- action_causes
+- action_prevention
+- action_test
+- action_symptoms_checker
+- utter_smalltalk_recommendations
+- utter_out_of_scope
+- utter_anything_else
+- utter_default
+- utter_symptoms
+- action_location

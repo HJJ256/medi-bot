@@ -1,0 +1,50 @@
+language: en
+pipeline:
+- name: pipeline.spell_check_component.SpellChecker
+- name: WhitespaceTokenizer
+- name: RegexFeaturizer
+- name: CRFEntityExtractor
+  features:
+  - - low
+    - title
+    - upper
+  - - bias
+    - low
+    - prefix5
+    - prefix2
+    - suffix5
+    - suffix3
+    - suffix2
+    - upper
+    - title
+    - digit
+    - pattern
+  - - low
+    - title
+    - upper
+- name: EntitySynonymMapper
+- name: CountVectorsFeaturizer
+  analyzer: word
+  min_ngram: 1
+  max_ngram: 3
+- name: EmbeddingIntentClassifier
+  batch_strategy: sequence
+policies:
+- name: KerasPolicy
+  augmentation_factor: 25
+  batch_size: 128
+  epochs: 30
+  featurizer:
+  - name: MaxHistoryTrackerFeaturizer
+    max_history: 3
+    state_featurizer:
+    - name: BinarySingleStateFeaturizer
+  validation_split: 0.15
+- name: AugmentedMemoizationPolicy
+  max_history: 20
+- name: FormPolicy
+- name: MappingPolicy
+- name: TwoStageFallbackPolicy
+  nlu_threshold: 0.55
+  core_threshold: 0.55
+  deny_suggestion_intent_name: out_of_scope

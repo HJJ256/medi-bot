@@ -1,0 +1,378 @@
+## intent:about_symptoms
+- I'm suffering from [Agoraphobia](disease)
+- [Anorexia](disease)
+- Can you tell me about [Agoraphobia](disease)
+- What are the symptoms of [Agoraphobia](disease)
+- Symptoms of [Agoraphobia](disease)
+- Tell me about [Agoraphobia](disease)
+- What causes [Allergies](disease)
+- I want to know about [Allergies](disease)
+- I need to know about [Agoraphobia](disease)
+- I'm bothered by [Agoraphobia](disease)
+- Please tell me about [Agoraphobia](disease)
+- [Agoraphobia](disease) is bothering me
+- What is [Agoraphobia](disease)
+- How serious is [Agoraphobia](disease) and how will it affect my home and work life?
+- What caused [Agoraphobia](disease)
+- What is causing [Agoraphobia](disease)
+- What symptoms should I watch for [Agoraphobia](disease)
+- How common is [Agoraphobia](disease)
+- What is [Asthma](disease)
+- What are the risk  of [Asthma](disease)
+- Information about [Asthma](disease)
+- How do I know about [Asthma](disease)
+- What is the definition of [Asthma](disease)
+- How is [Asthma](disease) diagnosed
+- What should I know about [Asthma](disease)
+- What can happen if I have [Asthma](disease)
+- What should I know about [Asthma](disease)
+- Who gets [Asthma](disease)
+- How do symptoms of [Ectopic Pregnancy](disease)
+- What are signs of [Herpes Simplex](disease)
+- I'm experiencing signs of [High Cholesterol](disease)
+- What are common signs of [Hirsutism](disease)
+- What can happen if [Hypopituitarism](disease) is left untreated?
+- about_symptoms of [Hypopituitarism](disease)
+- I have [Asthma](disease)
+- i've got [Malaria](disease)
+- What can I do about [Acne](disease)
+- What should I do for [Malaria](disease)
+- Check symptoms for [AIDS](disease)
+- Symptoms for [AIDS](disease)
+- [Cysticercosis](disease) symptoms
+
+## intent:overveiw
+- What is [Cysticercosis](disease) like
+- I want to know about [Dementia](disease)
+- Brief me about [Dementia](disease)
+- Can I get an overveiw for [Cysticercosis](disease)
+- I want information about [Cysticercosis](disease)
+- Can you tell me about [Cysticercosis](disease)
+- Information of [Cysticercosis](disease)
+- Overveiw of [Cysticercosis](disease)
+- Tell me about [Cysticercosis](disease)
+- About [Cysticercosis](disease)
+- Overveiw [Cysticercosis](disease)
+- What is [Carcinoid Syndrome](disease)
+- What is the meaning of [Ectopic Pregnancy](disease)
+- Who is most likely to get [Idiopathic Pulmonary Fibrosis](disease)
+- What should you know about [Impetigo](disease)
+- Will I pass [Influenza](disease) to my baby
+- What happens during a blood test for [Cancer](disease)
+- How can I protect myself from [Insomnia](disease)
+- What is [Iritis](disease) disease
+- How can you tell if your [Insomnia](disease) is normal?
+- What is the definition of [Interstitial Cystitis](disease)
+- What should I know about [Acanthosis Nigricans](disease)
+- Give me information about [Galactosemia](disease)
+- Overveiw on [Goiter](disease)
+- common [Cystic acne](disease) problems
+- What does [Bladder Infection](disease) do
+- What are the different names for [Cystitis Prophylaxis](disease)
+- Where does the pain from [Multiple Sclerosis](disease) come from?
+- overview of [Hypopituitarism](disease)
+- Information on [AIDS](disease)
+- Info on [](disease)
+- How 
+
+## intent:overveiw_hinglish
+
+## intent:about_treatment
+- How can [Asthma](disease) be treated
+- What is the cure for [Cysticercosis](disease)
+- Treatment for [Dementia](disease)
+- Can [Cysticercosis](disease) be cured
+- I want to know about the treatment for [Cysticercosis](disease)
+- What is the treatment procedure for [Cysticercosis](disease)
+- I want to know about the treatment for [Cysticercosis](disease)
+- What can I do about [Cysticercosis](disease)
+- I want to live a [Cysticercosis](disease) free life
+- Can you tell me about [Cysticercosis](disease)
+- How can I treat [Cysticercosis](disease)
+- What are the treatments for [Cysticercosis](disease)
+- How to get rid of [Acne](disease)
+- How is [Cancer](disease) cure
+- What are the treatment options for [Carcinoid Syndrome](disease)
+- How should I treat the symptoms of [Iron Deficiency Anemia](disease)
+- How can you manage [Ischemic Stroke](disease)
+- What are some tips to treat [Jet Lag](disease) at home
+- When should I seek medical help for a [Keratosis Pilaris](disease)
+- What should I do for [Lichen Sclerosus](disease)
+- When should you call a doctor about [Liposarcoma](disease)
+- Is there a test for [Liver Disease](disease)
+- How do medications control [Mania](disease)
+- Can you prevent [Measles](disease)
+- What can I do if I have [Menorrhagia](disease)
+- What is an open procedure for [Menstrual Disorders](disease)
+- What happens during [Cancer](disease) removal surgery?
+- How does a doctor test [Lung Cancer](disease)?
+- Do [Migraine](disease) need treatment?
+- Treatment of [Breast Cancer](disease)
+- What should you do in an [Lewy Body Dementia](disease) emergency?
+- What other conditions could an [Abnormal Uterine Bleeding](disease) exam discover?
+- What is the medical treatment for [Narcolepsy](disease)
+- about treatment of [Hypopituitarism](disease)
+
+## intent:about_treatment_hinglish
+
+## intent:causes
+- What is causing [Agoraphobia](disease)
+- What caused [Agoraphobia](disease)
+- What is [Mononucleosis](disease) how is it caused
+- causes of [Dental Pain](disease)
+- why does [Depression](disease) happens
+- Tell me about the cause of [Dermatitis](disease)
+- What are the causes of [polyidrosis](disease)
+- Why does [Merkel Cell Carcinoma](disease) happens
+- Tell me about the causes of [Zika Disease](disease)
+- [Wrinkles](disease) causes
+- [Angioedema](disease) cause
+- What can untreated [Weak Bladder](disease) lead to
+- How are tremors related to [Multiple Sclerosis](disease)
+- What is the root of [MCTD](disease)
+- What trigger [Malignant Disease](disease)
+- What leads to [Melanoma](disease)
+- How is [Manic Depression](disease) generated
+- What promotes [Mediterranean anemia](disease)
+- What gives rise to [Glomerulonephritis](disease)
+- What is the source of [Mild Cognitive Impairment](disease)
+- What is the agent of [Menstrual Disorders](disease)
+- What provokes [Nephrotic Syndrome](disease)
+- how is [Neurotic Depression](disease) provoked
+- [Osteomyelitis](disease) source
+- [Paralytic ileus](disease) root
+- The root of [Pinworm Infection](disease)
+- root of [Enterobius vermicularis](disease)
+- Source of [Cancer](disease)
+- causes of [Hypopituitarism](disease)
+
+## intent:causes_hinglish
+- kya kaaran hai [](disease)
+- kya kaaran hai [](disease)
+- kya hai [](disease) yah kaise hota hai
+- [](disease) ke kaaran
+- kyon [](disease) hota hai
+- mujhe [](disease) ke kaaran ke baare mein bataen
+- [](disease) ke kaaran kya hain
+- kyon [](disease) hota hai
+- mujhe [](disease) ke kaaranon ke baare mein bataen
+- (jhurriyaan)(disease) ka kaaran banata hai
+- [enjiyoedema](disease) kaaran
+- kya anupachaarit ho sakata hai [kamajor mootraashay](disease)
+- [malteepal skelerosis](disease) se sambandhit jhatake kaise hote hain
+- [mchtd](disease) kee jad kya hai
+- kya trigar [ghaatak beemaaree](disease)
+- kya [melaanoma](disease) kee or jaata hai
+- [unmatt avasaad](disease) kaise utpann hota hai
+- kya [bhoomadhy eneemiya](disease) ko badhaava deta hai
+- kya [glomerulonephraitis](disease) ko janm deta hai
+- [halke sangyaanaatmak haani](disease) ka srot kya hai
+- [maasik dharm vikaar](disease) ka ejent kya hai
+- kya uttejit karata hai [nephrotik sindrom](disease)
+- [nyurotik dipreshan](disease) kaise hotee hai
+- [ostiyomailaitis](disease) srot
+- [lakavaagrast ilaius](disease) jad
+- [pinavorm sankraman] kee jad(disease)
+- [entarobiyas varmikularis](disease) kee jad
+- [kainsar](disease) ka srot
+
+## intent:prevention
+- How can I protect myself from [Myelofibrosis](disease)
+- Can you prevent [Narcolepsy](disease)
+- What can you do if you have [Nasal Congestion](disease)
+- preventions for [Neck Pain](disease)
+- How to prevent myself from [Neuroblastoma](disease)
+- What complications can I get from [Neurofibromatosis](disease)
+- How to not get [HIV Infection](disease)
+- [Urinary Incontinence](disease) preventions
+- prevent [Weight Gain](disease)
+- What can I do to not get [Prostate Cancer](disease)
+- I want to know about all the necessary steps for prevention of [Cardiogenic Shock](disease)
+- Tell me how to not get [Cholesterolemia](disease)
+- [Hepatitis B](disease) preventions
+- Precautions to take for [Cold Symptoms](disease)
+- Necessary preventions for [Hoarding Disorder](disease)
+- [Contact Dermatitis](disease) precautions to take
+- basic steps to not get [Coronary Artery Disease](disease)
+- How to not get [Croup](disease)
+- preventions at the times of [Anthrax](disease)
+- How to take care of yourself when you have [Cysticercosis](disease)
+- I want to know about [DCIS](disease) precautions
+- Avoid getting [Breast Cancer](disease)
+- Preventions and cure for [Deep Vein Thrombosis](disease)
+- How can i not trigger [Dengue Fever](disease)
+- How to avoid rise of [Toothache](disease)
+- prevention of [Hypopituitarism](disease)
+
+## intent:prevention_hinglish
+- main khud ko [](disease) se kaise bacha sakata hoon
+- kya aap [](disease) ko rok sakate hain
+- agar aapake paas [](disease) hai to aap kya kar sakate hain
+- [](disease) ke lie rokathaam
+- khud ko [] se kaise roka jae(disease)
+- [](disease) se mujhe kya jatilataen ho sakatee hain
+- [](disease) kaise nahin
+- [](disease) kee rokathaam
+- rokathaam [](disease)
+- main [](disease) nahin pa sakata / sakatee
+- main [](disease) kee rokathaam ke lie sabhee aavashyak kadamon ke baare mein jaanana chaahata hoon.
+- mujhe batao ki kaise nahin milata hai [](disease)
+- [](disease) kee rokathaam
+- [](disease) ke lie saavadhaanee baraten
+- [](disease) ke lie aavashyak rokathaam
+- [](disease) saavadhaanee baratane ke lie
+- [](disease) nahin paane ke lie buniyaadee kadam
+- kaise nahin praapt karane ke lie [](disease)
+- [](disease) ke samay kee rokathaam
+- [](disease) hone par apana khyaal kaise rakhen
+- main [](disease) saavadhaaniyon ke baare mein jaanana chaahata hoon
+- [](disease) hone se bachen
+- rokathaam aur ilaaj ke lie [](disease)
+- main kaise [](disease) ko trigar nahin kar sakata
+- [](disease) ke badhane se kaise bachen
+
+## intent:out_of_scope
+- I want pizza
+- please help with my ice cream it's dripping
+- no wait go back i want a dripping ice cream but a cone that catches it so you can drink the ice cream later
+- i want a non dripping ice cream
+- hey little mama let em whisper in your ear
+- someone call the police i think the bot died
+- show me a picture of a chicken
+- neither
+- I want french cuisine
+- i am hungry
+- restaurants
+- restaurant
+- you're a loser lmao
+- can i be shown a gluten free restaurant
+- i don't care!!!!
+- i do not care how are you
+- again?
+- oh wait i gave you my work email address can i change it?
+- hang on let me find it
+- stop it, i do not care!!!
+- really? you're so touchy?
+- how come?
+- I changed my mind
+- what?
+- did i break you
+- I don't wanna tell the name of my company
+- that link doesn't work!
+- you already have that
+- this is a really frustrating experience
+- no stop
+- i want a french restaurant
+- shit bot
+- do you want to marry me?
+- give me food
+- i want food
+- udo, I want to marry you
+- i wanna party
+- shitmuncher
+- I like you
+- i want pizza
+- i want pizza!!
+- silly bot
+- i want to eat
+- you are a stupid bot
+- i hate you
+- Can I ask you questions first?
+- is it a wasteland full of broken robot parts?
+- i can't deal with your request
+- are you vegan
+- who will anser my email?
+- do you sell vacuum robots?
+- i want to buy a roomba for my grandson
+- and make chicken noises into the phone
+- is barbara still married to you
+- what's your wife doing this weekend
+- how are the kids
+- you're rather dull
+- personal or work?
+- are you using Rasa Core and NLU ?
+- tell me a joke
+- what else?
+- I already told you! I'm a shitmuncher
+- I'm a shitmuncher
+- who are the engineers at rasa?
+- who are they?
+- can we keep chatting?
+- talk to me
+- who is your favourite robot?
+- a tamed mouse will arrive at your doorstep in the next couple of days
+- you will know it from the single red rose it carries between its teeth
+- i will tame a mouse for you
+- isn't the newsletter just spam?
+- go back
+- can you help me with the docs?
+- sorry, i cannot rephrase
+- and your REST API doesn't work
+- i told you already
+- better than you
+- oh my god, not again!
+- you are a badass bot!
+- lol
+- why do you need that?
+- is that any of your business
+- can you help me with your docs?
+- i immediately need help with implementing the coolest bot you can imagine
+- can you help me with your docs
+- can you tell me how to build a bot?
+- can you learn from our conversation?
+- common, just try
+- hey, I contacted you a couple of days ago but didn't get any response, any news?
+- please hurry, i have deadline in two weeks to deliver the bot it is for very big company
+- you are annoying
+- Do I have to accept?
+- Is Rasa really smart?
+- kannst du auch deutsch?
+- are the newsletter worth the subscription?
+- it's a pity
+- i want more of you in my life!
+- the one that is better than you
+- you suck
+- bots are bad
+- i dont like bots
+- do you have a phone number?
+- where do you live?
+- how are akela's cats doing?
+- but I just told you that :(
+- Why don’t you answer?
+- But you're an english site :(
+- can you help me to build a bot
+- out of scope
+- scope of out
+- scope out of
+
+## intent:locate_clinic
+- My location is [borivali](current_location)
+- I'm currently [kandivali](current_location) here
+- [malad](current_location) is my location
+- This is my [andheri](current_location) location
+- location [jogeshwari](current_location)
+- [dehiser](current_location)
+- clinic near by [borivali](current_location)
+- hospitals near by [malad](current_location)
+- location of hospital near by [borivali](current_location)
+- clinic near [borivali](current_location) hospital
+
+
+
+## intent:locate_doctor
+- doctor near by [borivali](current_location)
+- doctor near by [malad](current_location)
+- location of specialist near by [borivali](current_location)
+- specialist near [borivali](current_location)
+- near by doctor [borivali](current_location)
+- I want to know about doctors near me [borivali](current_location)
+
+
+
+
+<!-- 
+## regex:location
+- [NS] \d{1,}(\:[0-5]\d){2}.{0,1}\d{0,},[EW] \d{1,}(\:[0-5]\d){2}.{0,1}\d{0,} -->
+
+## lookup:disease
+data/nlu/disease.txt

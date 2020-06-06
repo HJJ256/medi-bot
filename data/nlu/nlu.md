@@ -1,0 +1,2939 @@
+## intent:symptom_checker
+- I am suffering from Abnormal gait
+- I am suffering from Abnormal muscle enlargement
+- I am suffering from Abnormally round face
+- I am suffering from Agitation
+- I am suffering from Anxiety
+- I am suffering from Apathy
+- I am suffering from Bad breath
+- I am suffering from Bad taste in mouth
+- I am suffering from Bald spots
+- I am suffering from Belching
+- I am suffering from Binge drinking
+- I am suffering from Binge eating
+- I am suffering from Bitter almond odor on breath
+- I am suffering from Black  colored stools
+- I am suffering from Black colored skin
+- I am suffering from Blackouts
+- I am suffering from Blank stare
+- I am suffering from Bleeding
+- I am suffering from Bleeding from nipple
+- I am suffering from Bleeding gums
+- I am suffering from Bleeding in eye
+- I am suffering from Blind spot in vision
+- I am suffering from Blindness
+- I am suffering from Blinking eyes
+- I am suffering from Bloating or fullness
+- I am suffering from Blood in toilet
+- I am suffering from Blood on stool surface
+- I am suffering from Blood on toilet tissue
+- I am suffering from Blood or red colored urine
+- I am suffering from Bloody or red colored stools
+- I am suffering from Bloody or red colored vomit
+- I am suffering from Blue colored skin
+- I am suffering from Blue coloured lips
+- I am suffering from Blurred vision
+- I am suffering from Body aches or pains
+- I am suffering from Brittle hair
+- I am suffering from Broken bone
+- I am suffering from Broken bones
+- I am suffering from Bruising or discoloration
+- I am suffering from Bulging eyes
+- I am suffering from Bulging neck veins
+- I am suffering from Bulging veins
+- I am suffering from Change in bowel habits
+- I am suffering from Change in hair texture
+- I am suffering from Change in stools
+- I am suffering from Change in vision
+- I am suffering from Chills
+- I am suffering from Choking
+- I am suffering from Choking on food
+- I am suffering from Clicking or popping sound from jaw
+- I am suffering from Cloudy urine with strong odor
+- I am suffering from Cloudy vision
+- I am suffering from Coarse hair
+- I am suffering from Coated or furry tongue
+- I am suffering from Coffee grounds colored vomit
+- I am suffering from Cold feet
+- I am suffering from Cold hands
+- I am suffering from Color change
+- I am suffering from Coma
+- I am suffering from Compulsive behavior
+- I am suffering from Confusion
+- I am suffering from Constipation
+- I am suffering from Cough
+- I am suffering from Cracks at corner of mouth
+- I am suffering from Craving alcohol
+- I am suffering from Craving to eat ice, dirt or paper
+- I am suffering from Crying during sleep
+- I am suffering from Curved fingernails
+- I am suffering from Curved or bent penis during erection
+- I am suffering from Curved spine
+- I am suffering from Damaged teeth enamel
+- I am suffering from Dark colored  urine
+- I am suffering from Decreased appetite
+- I am suffering from Decreased night vision
+- I am suffering from Decreased school performance
+- I am suffering from Decreased smell
+- I am suffering from Decreased sweating
+- I am suffering from Decreased taste
+- I am suffering from Decreased tears when crying
+- I am suffering from Decreased urination
+- I am suffering from Delayed language skills
+- I am suffering from Delayed motor development
+- I am suffering from Delusions
+- I am suffering from Depressed mood
+- I am suffering from Developmental delays
+- I am suffering from Diarrhea
+- I am suffering from Difficult to wake from sleep
+- I am suffering from Difficulty breathing through nose
+- I am suffering from Difficulty concentrating
+- I am suffering from Difficulty falling asleep
+- I am suffering from Difficulty finding words
+- I am suffering from Difficulty learning new things
+- I am suffering from Difficulty moving arm
+- I am suffering from Difficulty opening mouth
+- I am suffering from Difficulty relaxing muscles after contracting them
+- I am suffering from Difficulty sleeping
+- I am suffering from Difficulty solving problems
+- I am suffering from Difficulty standing
+- I am suffering from Difficulty starting urine stream
+- I am suffering from Difficulty staying asleep
+- I am suffering from Difficulty staying awake during day
+- I am suffering from Difficulty stopping urine stream
+- I am suffering from Difficulty swallowing
+- I am suffering from Difficulty talking
+- I am suffering from Difficulty urinating
+- I am suffering from Discharge from nipple
+- I am suffering from Discharge from penis
+- I am suffering from Discharge or mucus in eyes
+- I am suffering from Dislikes change in daily routine
+- I am suffering from Disorientation
+- I am suffering from Distended stomach
+- I am suffering from Distorted body image
+- I am suffering from Distortion of part of visual field
+- I am suffering from Dizziness
+- I am suffering from Double vision
+- I am suffering from Drainage or pus
+- I am suffering from Drinking excessive fluids
+- I am suffering from Drooling
+- I am suffering from Drooping eyelid
+- I am suffering from Drooping of one side of face
+- I am suffering from Drowsiness
+- I am suffering from Dry eyes
+- I am suffering from Dry mouth
+- I am suffering from Dry skin
+- I am suffering from Ear ache
+- I am suffering from Early breast development
+- I am suffering from Early morning waking
+- I am suffering from Easily distracted
+- I am suffering from Easy bleeding
+- I am suffering from Easy bruising
+- I am suffering from Emotional detachment
+- I am suffering from Enlarged  pupils
+- I am suffering from Enlarged  veins
+- I am suffering from Enlarged finger tips
+- I am suffering from Enlarged or swollen glands
+- I am suffering from Episodes of not breathing during sleep
+- I am suffering from Erectile dysfunction
+- I am suffering from Excessive body hair growth
+- I am suffering from Excessive crying
+- I am suffering from Excessive exercising
+- I am suffering from Excessive facial hair growth
+- I am suffering from Excessive mouth watering
+- I am suffering from Excessive sweating
+- I am suffering from Excessively salty sweat or skin
+- I am suffering from Eye crusting with sleep
+- I am suffering from Eye irritation
+- I am suffering from Eyelashes falling out
+- I am suffering from Eyelid redness
+- I am suffering from Eyes do not track together
+- I am suffering from Eyes rolling back
+- I am suffering from Fainting
+- I am suffering from Fatigue
+- I am suffering from Fear of air
+- I am suffering from Fear of gaining weight
+- I am suffering from Fear of water
+- I am suffering from Fearful
+- I am suffering from Feeling faint
+- I am suffering from Feeling of being detached from reality
+- I am suffering from Feeling of not being able to get enough air
+- I am suffering from Feeling smothered
+- I am suffering from Fever
+- I am suffering from Fits of rage
+- I am suffering from Flaking skin
+- I am suffering from Flashbacks
+- I am suffering from Flickering lights in vision
+- I am suffering from Flickering uncolored zig-zag line in vision
+- I am suffering from Floating spots or strings in vision
+- I am suffering from Flushed skin
+- I am suffering from Food cravings
+- I am suffering from Food getting stuck
+- I am suffering from Forgetfulness
+- I am suffering from Foul smelling stools
+- I am suffering from Frequent bowel movements
+- I am suffering from Frequent changes in eye glass prescription
+- I am suffering from Frequent chewing
+- I am suffering from Frequent infections
+- I am suffering from Frequent laxative use
+- I am suffering from Frequent nighttime urination
+- I am suffering from Frequent squinting
+- I am suffering from Frequent urge to have bowel movement
+- I am suffering from Frequent urge to urinate
+- I am suffering from Frequent urination
+- I am suffering from Frightening dreams
+- I am suffering from Frightening thoughts
+- I am suffering from Fruity odor on breath
+- I am suffering from Gagging
+- I am suffering from Giddiness
+- I am suffering from Grinding teeth
+- I am suffering from Gritty or scratchy eyes
+- I am suffering from Grooved tongue
+- I am suffering from Guarding or favoring joint
+- I am suffering from Gum sores
+- I am suffering from Hair loss
+- I am suffering from Hallucinations
+- I am suffering from Headache
+- I am suffering from Hearing loss
+- I am suffering from Hearing voices
+- I am suffering from Heartburn
+- I am suffering from Heavy menstrual bleeding
+- I am suffering from High blood pressure
+- I am suffering from Hives
+- I am suffering from Hoarse voice
+- I am suffering from Holding bowel movements
+- I am suffering from Holding objects closer to read
+- I am suffering from Holding objects further away to read
+- I am suffering from Hot flashes
+- I am suffering from Hot, dry skin
+- I am suffering from Hunched or stooped posture
+- I am suffering from Hunger
+- I am suffering from Hyperactive behavior
+- I am suffering from Hyperventilating
+- I am suffering from Impaired color vision
+- I am suffering from Impaired judgement
+- I am suffering from Impaired social skills
+- I am suffering from Impulsive behavior
+- I am suffering from Inability to care for self
+- I am suffering from Inability to move
+- I am suffering from Inappropriate behavior
+- I am suffering from Increased passing gas
+- I am suffering from Increased sensitivity to cold
+- I am suffering from Increased sensitivity to heat
+- I am suffering from Increased speech volume
+- I am suffering from Increased talkativeness
+- I am suffering from Increased thirst
+- I am suffering from Intentional vomiting
+- I am suffering from Involuntary head turning or twisting
+- I am suffering from Involuntary movements
+- I am suffering from Irregular heartbeat
+- I am suffering from Irregular menstrual periods
+- I am suffering from Itching or burning
+- I am suffering from Jaw locking
+- I am suffering from Jerking eye movements
+- I am suffering from Joint aches
+- I am suffering from Joint instability
+- I am suffering from Joint locking or catching
+- I am suffering from Joint pain
+- I am suffering from Jumpiness or easily startled
+- I am suffering from Labored breathing
+- I am suffering from Lack of emotion
+- I am suffering from Lack of motivation
+- I am suffering from Lack of pleasure
+- I am suffering from Lightheadedness
+- I am suffering from Loss of balance
+- I am suffering from Loss of consciousness
+- I am suffering from Loss of coordination
+- I am suffering from Loss of height
+- I am suffering from Loss of outside 1/3 of eyebrow
+- I am suffering from Loss of side vision
+- I am suffering from Loss of voice
+- I am suffering from Low blood pressure
+- I am suffering from Low self-esteem
+- I am suffering from Lump or bulge
+- I am suffering from Memory problems
+- I am suffering from Metallic taste in mouth
+- I am suffering from Missed or late menstrual period
+- I am suffering from Mood swings
+- I am suffering from Morning alcohol drinking
+- I am suffering from Morning joint stiffness
+- I am suffering from Mouth sores
+- I am suffering from Muffled voice
+- I am suffering from Multiple bruises of different ages
+- I am suffering from Muscle cramps or spasms
+- I am suffering from Muscle stiffness
+- I am suffering from Muscle twitching
+- I am suffering from Muscle wasting
+- I am suffering from Muscle weakness
+- I am suffering from Nasal congestion
+- I am suffering from Nasal symptoms and one red eye
+- I am suffering from Nausea or vomiting
+- I am suffering from Need brighter light to read
+- I am suffering from Nervousness
+- I am suffering from New onset asthma
+- I am suffering from Night sweats
+- I am suffering from Nighttime wheezing
+- I am suffering from No menstrual periods
+- I am suffering from Noisy breathing
+- I am suffering from Nosebleed
+- I am suffering from Numbness or tingling
+- I am suffering from Overweight
+- I am suffering from Pain during erection
+- I am suffering from Pain or discomfort
+- I am suffering from Pain when moving eyes
+- I am suffering from Pain when swallowing
+- I am suffering from Pain with sexual intercourse
+- I am suffering from Pain with urination
+- I am suffering from Painful bowel movements
+- I am suffering from Painful ejaculation
+- I am suffering from Painful red lump on eyelid
+- I am suffering from Pale skin
+- I am suffering from Palpitations
+- I am suffering from Paranoid behavior
+- I am suffering from Partial vision loss
+- I am suffering from Personality changes
+- I am suffering from Poor concentration
+- I am suffering from Poor personal hygiene
+- I am suffering from Popping or snapping sound from joint
+- I am suffering from Post nasal drip
+- I am suffering from Pounding heart
+- I am suffering from Premature ejaculation
+- I am suffering from Pressure or fullness
+- I am suffering from Pressure or heaviness
+- I am suffering from Prolonged bleeding
+- I am suffering from Prolonged breathing pauses
+- I am suffering from Protruding rectal material
+- I am suffering from Protruding vaginal material
+- I am suffering from Puffy eyelids
+- I am suffering from Pulling out beard
+- I am suffering from Pulling out eyebrows
+- I am suffering from Pulling out eyelashes
+- I am suffering from Pulling out hair
+- I am suffering from Pulsating sensation
+- I am suffering from Punching or kicking in sleep
+- I am suffering from Rapid breathing
+- I am suffering from Rapid heart rate
+- I am suffering from Rapid speech
+- I am suffering from Recent  memory loss
+- I am suffering from Red  eyes
+- I am suffering from Red  tongue
+- I am suffering from Red eye
+- I am suffering from Red gums
+- I am suffering from Red or black spots on fingernails
+- I am suffering from Red spots
+- I am suffering from Red spots inside lower eyelid
+- I am suffering from Reduced productivity at work
+- I am suffering from Regurgitation of food or liquid
+- I am suffering from Repeats phrases
+- I am suffering from Repetitive behaviors
+- I am suffering from Restless  sleep
+- I am suffering from Restless  legs
+- I am suffering from Restless or irritability
+- I am suffering from Restrictive dieting
+- I am suffering from Ringing in ears
+- I am suffering from Runny nose
+- I am suffering from Sadness
+- I am suffering from Scaley skin on eyelids
+- I am suffering from See letters, numbers or musical notes as colors
+- I am suffering from Seizures
+- I am suffering from Sensation of something in eye
+- I am suffering from Sense of impending doom
+- I am suffering from Sensitive to light
+- I am suffering from Sensitive to noise
+- I am suffering from Shadow over part of vision
+- I am suffering from Shaking
+- I am suffering from Shaking chills
+- I am suffering from Shaking hands or tremor
+- I am suffering from Short arms and legs
+- I am suffering from Short attention span
+- I am suffering from Short stature
+- I am suffering from Short, wide neck
+- I am suffering from Shortening of limb
+- I am suffering from Shortness of breath
+- I am suffering from Shuffling gait
+- I am suffering from Single palm crease
+- I am suffering from Skin blisters
+- I am suffering from Skin bumps
+- I am suffering from Skin darkening
+- I am suffering from Skin hardening
+- I am suffering from Skin irritation
+- I am suffering from Skin open sore
+- I am suffering from Skin peeling, cracking or scaling
+- I am suffering from Skin rash
+- I am suffering from Skin redness
+- I am suffering from Skin thickening
+- I am suffering from Sleep walking
+- I am suffering from Slow growth
+- I am suffering from Slow heart rate
+- I am suffering from Slow or irregular breathing
+- I am suffering from Slow or weak urine stream
+- I am suffering from Slow thinking
+- I am suffering from Slurred speech
+- I am suffering from Small  pupils
+- I am suffering from Smooth tongue
+- I am suffering from Sneezing
+- I am suffering from Snoring
+- I am suffering from Socially withdrawn
+- I am suffering from Sore or burning eyes
+- I am suffering from Sore throat
+- I am suffering from Sore tongue
+- I am suffering from Soreness or burning inside of mouth
+- I am suffering from Spinning sensation
+- I am suffering from Spots on throat
+- I am suffering from Spots on tonsils
+- I am suffering from Squatting
+- I am suffering from Squinting eyes
+- I am suffering from Stiff neck
+- I am suffering from Stiffness or decreased movement
+- I am suffering from Stomach cramps
+- I am suffering from Stool leaking
+- I am suffering from Straining with bowel movements
+- I am suffering from Strange smell or taste
+- I am suffering from Sudden flash of lights
+- I am suffering from Sudden numbness or weakness on one side of body
+- I am suffering from Sudden urge to urinate
+- I am suffering from Sunken eyes
+- I am suffering from Sunken soft spot on top of head
+- I am suffering from Swelling
+- I am suffering from Swollen gums
+- I am suffering from Swollen lips
+- I am suffering from Swollen tongue
+- I am suffering from Swollen tonsils
+- I am suffering from Taste of acid in mouth
+- I am suffering from Taste words when they are heard
+- I am suffering from Tearing in one eye
+- I am suffering from Teeth do not fit like they used to
+- I am suffering from Tender glands
+- I am suffering from Tenderness to touch
+- I am suffering from Testicles shrinkage
+- I am suffering from Testicular pain
+- I am suffering from Thick saliva or mucus
+- I am suffering from Thin  stools
+- I am suffering from Throat tightness
+- I am suffering from Tightness
+- I am suffering from Tilts head to look at something
+- I am suffering from Tires quickly
+- I am suffering from Trembling
+- I am suffering from Trouble distinguishing color shades
+- I am suffering from Twisting or rotation of limb
+- I am suffering from Unable to bear weight
+- I am suffering from Unable to bend foot down
+- I am suffering from Unable to blink or close eyelid
+- I am suffering from Unable to grip
+- I am suffering from Unable to move arm
+- I am suffering from Unable to move joint
+- I am suffering from Unable to move leg
+- I am suffering from Unable to obtain or maintain erection
+- I am suffering from Unable to open mouth
+- I am suffering from Uncontrollable verbal outbursts
+- I am suffering from Unequal pupils
+- I am suffering from Unusual behavior
+- I am suffering from Unusual facial expression
+- I am suffering from Unusual or suspicious mole
+- I am suffering from Unusual taste in mouth
+- I am suffering from Unusually short forth fingers
+- I am suffering from Upset stomach
+- I am suffering from Upward curving  of nails
+- I am suffering from Urine leaking
+- I am suffering from Vaginal bleeding
+- I am suffering from Vaginal bleeding after menopause
+- I am suffering from Vaginal bleeding between periods
+- I am suffering from Vaginal discharge
+- I am suffering from Vaginal dryness
+- I am suffering from Vaginal odor
+- I am suffering from Visible bugs or parasites
+- I am suffering from Visible deformity
+- I am suffering from Visible pulsations
+- I am suffering from Vision fading of colors
+- I am suffering from Visual halos around lights
+- I am suffering from Warm to touch
+- I am suffering from Watery eyes
+- I am suffering from Weakness
+- I am suffering from Weight gain
+- I am suffering from Weight loss
+- I am suffering from Welts
+- I am suffering from Wheezing
+- I am suffering from White patches inside mouth
+- I am suffering from White patches on tongue
+- I am suffering from Worms in stool
+- I am suffering from Yelling out during sleep
+- I am suffering from Yellow eyes
+- I am suffering from Yellow skin
+- Abnormal gait
+- Abnormal muscle enlargement
+- Abnormally round face
+- Agitation
+- Anxiety
+- Apathy
+- Bad breath
+- Bad taste in mouth
+- Bald spots
+- Belching
+- Binge drinking
+- Binge eating
+- Bitter almond odor on breath
+- Black  colored stools
+- Black colored skin
+- Blackouts
+- Blank stare
+- Bleeding
+- Bleeding from nipple
+- Bleeding gums
+- Bleeding in eye
+- Blind spot in vision
+- Blindness
+- Blinking eyes
+- Bloating or fullness
+- Blood in toilet
+- Blood on stool surface
+- Blood on toilet tissue
+- Blood or red colored urine
+- Bloody or red colored stools
+- Bloody or red colored vomit
+- Blue colored skin
+- Blue coloured lips
+- Blurred vision
+- Body aches or pains
+- Brittle hair
+- Broken bone
+- Broken bones
+- Bruising or discoloration
+- Bulging eyes
+- Bulging neck veins
+- Bulging veins
+- Change in bowel habits
+- Change in hair texture
+- Change in stools
+- Change in vision
+- Chills
+- Choking
+- Choking on food
+- Clicking or popping sound from jaw
+- Cloudy urine with strong odor
+- Cloudy vision
+- Coarse hair
+- Coated or furry tongue
+- Coffee grounds colored vomit
+- Cold feet
+- Cold hands
+- Color change
+- Coma
+- Compulsive behavior
+- Confusion
+- Constipation
+- Cough
+- Cracks at corner of mouth
+- Craving alcohol
+- Craving to eat ice, dirt or paper
+- Crying during sleep
+- Curved fingernails
+- Curved or bent penis during erection
+- Curved spine
+- Damaged teeth enamel
+- Dark colored  urine
+- Decreased appetite
+- Decreased night vision
+- Decreased school performance
+- Decreased smell
+- Decreased sweating
+- Decreased taste
+- Decreased tears when crying
+- Decreased urination
+- Delayed language skills
+- Delayed motor development
+- Delusions
+- Depressed mood
+- Developmental delays
+- Diarrhea
+- Difficult to wake from sleep
+- Difficulty breathing through nose
+- Difficulty concentrating
+- Difficulty falling asleep
+- Difficulty finding words
+- Difficulty learning new things
+- Difficulty moving arm
+- Difficulty opening mouth
+- Difficulty relaxing muscles after contracting them
+- Difficulty sleeping
+- Difficulty solving problems
+- Difficulty standing
+- Difficulty starting urine stream
+- Difficulty staying asleep
+- Difficulty staying awake during day
+- Difficulty stopping urine stream
+- Difficulty swallowing
+- Difficulty talking
+- Difficulty urinating
+- Discharge from nipple
+- Discharge from penis
+- Discharge or mucus in eyes
+- Dislikes change in daily routine
+- Disorientation
+- Distended stomach
+- Distorted body image
+- Distortion of part of visual field
+- Dizziness
+- Double vision
+- Drainage or pus
+- Drinking excessive fluids
+- Drooling
+- Drooping eyelid
+- Drooping of one side of face
+- Drowsiness
+- Dry eyes
+- Dry mouth
+- Dry skin
+- Ear ache
+- Early breast development
+- Early morning waking
+- Easily distracted
+- Easy bleeding
+- Easy bruising
+- Emotional detachment
+- Enlarged  pupils
+- Enlarged  veins
+- Enlarged finger tips
+- Enlarged or swollen glands
+- Episodes of not breathing during sleep
+- Erectile dysfunction
+- Excessive body hair growth
+- Excessive crying
+- Excessive exercising
+- Excessive facial hair growth
+- Excessive mouth watering
+- Excessive sweating
+- Excessively salty sweat or skin
+- Eye crusting with sleep
+- Eye irritation
+- Eyelashes falling out
+- Eyelid redness
+- Eyes do not track together
+- Eyes rolling back
+- Fainting
+- Fatigue
+- Fear of air
+- Fear of gaining weight
+- Fear of water
+- Fearful
+- Feeling faint
+- Feeling of being detached from reality
+- Feeling of not being able to get enough air
+- Feeling smothered
+- Fever
+- Fits of rage
+- Flaking skin
+- Flashbacks
+- Flickering lights in vision
+- Flickering uncolored zig-zag line in vision
+- Floating spots or strings in vision
+- Flushed skin
+- Food cravings
+- Food getting stuck
+- Forgetfulness
+- Foul smelling stools
+- Frequent bowel movements
+- Frequent changes in eye glass prescription
+- Frequent chewing
+- Frequent infections
+- Frequent laxative use
+- Frequent nighttime urination
+- Frequent squinting
+- Frequent urge to have bowel movement
+- Frequent urge to urinate
+- Frequent urination
+- Frightening dreams
+- Frightening thoughts
+- Fruity odor on breath
+- Gagging
+- Giddiness
+- Grinding teeth
+- Gritty or scratchy eyes
+- Grooved tongue
+- Guarding or favoring joint
+- Gum sores
+- Hair loss
+- Hallucinations
+- Headache
+- Hearing loss
+- Hearing voices
+- Heartburn
+- Heavy menstrual bleeding
+- High blood pressure
+- Hives
+- Hoarse voice
+- Holding bowel movements
+- Holding objects closer to read
+- Holding objects further away to read
+- Hot flashes
+- Hot, dry skin
+- Hunched or stooped posture
+- Hunger
+- Hyperactive behavior
+- Hyperventilating
+- Impaired color vision
+- Impaired judgement
+- Impaired social skills
+- Impulsive behavior
+- Inability to care for self
+- Inability to move
+- Inappropriate behavior
+- Increased passing gas
+- Increased sensitivity to cold
+- Increased sensitivity to heat
+- Increased speech volume
+- Increased talkativeness
+- Increased thirst
+- Intentional vomiting
+- Involuntary head turning or twisting
+- Involuntary movements
+- Irregular heartbeat
+- Irregular menstrual periods
+- Itching or burning
+- Jaw locking
+- Jerking eye movements
+- Joint aches
+- Joint instability
+- Joint locking or catching
+- Joint pain
+- Jumpiness or easily startled
+- Labored breathing
+- Lack of emotion
+- Lack of motivation
+- Lack of pleasure
+- Lightheadedness
+- Loss of balance
+- Loss of consciousness
+- Loss of coordination
+- Loss of height
+- Loss of outside 1/3 of eyebrow
+- Loss of side vision
+- Loss of voice
+- Low blood pressure
+- Low self-esteem
+- Lump or bulge
+- Memory problems
+- Metallic taste in mouth
+- Missed or late menstrual period
+- Mood swings
+- Morning alcohol drinking
+- Morning joint stiffness
+- Mouth sores
+- Muffled voice
+- Multiple bruises of different ages
+- Muscle cramps or spasms
+- Muscle stiffness
+- Muscle twitching
+- Muscle wasting
+- Muscle weakness
+- Nasal congestion
+- Nasal symptoms and one red eye
+- Nausea or vomiting
+- Need brighter light to read
+- Nervousness
+- New onset asthma
+- Night sweats
+- Nighttime wheezing
+- No menstrual periods
+- Noisy breathing
+- Nosebleed
+- Numbness or tingling
+- Overweight
+- Pain during erection
+- Pain or discomfort
+- Pain when moving eyes
+- Pain when swallowing
+- Pain with sexual intercourse
+- Pain with urination
+- Painful bowel movements
+- Painful ejaculation
+- Painful red lump on eyelid
+- Pale skin
+- Palpitations
+- Paranoid behavior
+- Partial vision loss
+- Personality changes
+- Poor concentration
+- Poor personal hygiene
+- Popping or snapping sound from joint
+- Post nasal drip
+- Pounding heart
+- Premature ejaculation
+- Pressure or fullness
+- Pressure or heaviness
+- Prolonged bleeding
+- Prolonged breathing pauses
+- Protruding rectal material
+- Protruding vaginal material
+- Puffy eyelids
+- Pulling out beard
+- Pulling out eyebrows
+- Pulling out eyelashes
+- Pulling out hair
+- Pulsating sensation
+- Punching or kicking in sleep
+- Rapid breathing
+- Rapid heart rate
+- Rapid speech
+- Recent  memory loss
+- Red  eyes
+- Red  tongue
+- Red eye
+- Red gums
+- Red or black spots on fingernails
+- Red spots
+- Red spots inside lower eyelid
+- Reduced productivity at work
+- Regurgitation of food or liquid
+- Repeats phrases
+- Repetitive behaviors
+- Restless  sleep
+- Restless  legs
+- Restless or irritability
+- Restrictive dieting
+- Ringing in ears
+- Runny nose
+- Sadness
+- Scaley skin on eyelids
+- See letters, numbers or musical notes as colors
+- Seizures
+- Sensation of something in eye
+- Sense of impending doom
+- Sensitive to light
+- Sensitive to noise
+- Shadow over part of vision
+- Shaking
+- Shaking chills
+- Shaking hands or tremor
+- Short arms and legs
+- Short attention span
+- Short stature
+- Short, wide neck
+- Shortening of limb
+- Shortness of breath
+- Shuffling gait
+- Single palm crease
+- Skin blisters
+- Skin bumps
+- Skin darkening
+- Skin hardening
+- Skin irritation
+- Skin open sore
+- Skin peeling, cracking or scaling
+- Skin rash
+- Skin redness
+- Skin thickening
+- Sleep walking
+- Slow growth
+- Slow heart rate
+- Slow or irregular breathing
+- Slow or weak urine stream
+- Slow thinking
+- Slurred speech
+- Small  pupils
+- Smooth tongue
+- Sneezing
+- Snoring
+- Socially withdrawn
+- Sore or burning eyes
+- Sore throat
+- Sore tongue
+- Soreness or burning inside of mouth
+- Spinning sensation
+- Spots on throat
+- Spots on tonsils
+- Squatting
+- Squinting eyes
+- Stiff neck
+- Stiffness or decreased movement
+- Stomach cramps
+- Stool leaking
+- Straining with bowel movements
+- Strange smell or taste
+- Sudden flash of lights
+- Sudden numbness or weakness on one side of body
+- Sudden urge to urinate
+- Sunken eyes
+- Sunken soft spot on top of head
+- Swelling
+- Swollen gums
+- Swollen lips
+- Swollen tongue
+- Swollen tonsils
+- Taste of acid in mouth
+- Taste words when they are heard
+- Tearing in one eye
+- Teeth do not fit like they used to
+- Tender glands
+- Tenderness to touch
+- Testicles shrinkage
+- Testicular pain
+- Thick saliva or mucus
+- Thin  stools
+- Throat tightness
+- Tightness
+- Tilts head to look at something
+- Tires quickly
+- Trembling
+- Trouble distinguishing color shades
+- Twisting or rotation of limb
+- Unable to bear weight
+- Unable to bend foot down
+- Unable to blink or close eyelid
+- Unable to grip
+- Unable to move arm
+- Unable to move joint
+- Unable to move leg
+- Unable to obtain or maintain erection
+- Unable to open mouth
+- Uncontrollable verbal outbursts
+- Unequal pupils
+- Unusual behavior
+- Unusual facial expression
+- Unusual or suspicious mole
+- Unusual taste in mouth
+- Unusually short forth fingers
+- Upset stomach
+- Upward curving  of nails
+- Urine leaking
+- Vaginal bleeding
+- Vaginal bleeding after menopause
+- Vaginal bleeding between periods
+- Vaginal discharge
+- Vaginal dryness
+- Vaginal odor
+- Visible bugs or parasites
+- Visible deformity
+- Visible pulsations
+- Vision fading of colors
+- Visual halos around lights
+- Warm to touch
+- Watery eyes
+- Weakness
+- Weight gain
+- Weight loss
+- Welts
+- Wheezing
+- White patches inside mouth
+- White patches on tongue
+- Worms in stool
+- Yelling out during sleep
+- Yellow eyes
+- Yellow skin
+- headache crest pain
+- i am suffering from headache cold and crest pain
+
+## intent:start_symptom_checker
+- I want to check symptoms
+- lemme check symptom
+- let me check symptoms
+- i want to check symptom
+- symptom checker
+- symtoms checking
+- i want to check symptoms
+- i want to check my symptoms
+- check my symptoms
+
+## intent:about_symptoms
+- I'm suffering from [Agoraphobia](disease)
+- [Anorexia](disease)
+- Can you tell me about [Agoraphobia](disease)
+- What are the symptoms of [Agoraphobia](disease)
+- Symptoms of [Agoraphobia](disease)
+- Tell me about [Agoraphobia](disease)
+- What causes [Allergies](disease)
+- I want to know about [Allergies](disease)
+- I need to know about [Agoraphobia](disease)
+- I'm bothered by [Agoraphobia](disease)
+- Please tell me about [Agoraphobia](disease)
+- [Agoraphobia](disease) is bothering me
+- What is [Agoraphobia](disease)
+- How serious is [Agoraphobia](disease) and how will it affect my home and work life?
+- What caused [Agoraphobia](disease)
+- What is causing [Agoraphobia](disease)
+- What symptoms should I watch for [Agoraphobia](disease)
+- How common is [Agoraphobia](disease)
+- What is [Asthma](disease)
+- What are the risk  of [Asthma](disease)
+- Information about [Asthma](disease)
+- How do I know about [Asthma](disease)
+- What is the definition of [Asthma](disease)
+- How is [Asthma](disease) diagnosed
+- What should I know about [Asthma](disease)
+- What can happen if I have [Asthma](disease)
+- Who gets [Asthma](disease)
+- How do symptoms of [Ectopic Pregnancy](disease)
+- What are signs of [Herpes Simplex](disease)
+- I'm experiencing signs of [High Cholesterol](disease)
+- What are common signs of [Hirsutism](disease)
+- What can happen if [Hypopituitarism](disease) is left untreated?
+- about_symptoms of [Hypopituitarism](disease)
+- I have [Asthma](disease)
+- i've got [Malaria](disease)
+- What can I do about [Acne](disease)
+- What should I do for [Malaria](disease)
+- Check symptoms for [AIDS](disease)
+- Symptoms for [AIDS](disease)
+- [Cysticercosis](disease) symptoms
+- symptoms of [cancer](disease)
+- i have cancer
+- i have [asthma](disease)
+- I have [malaria](disease)
+- I have [Malaria](disease)
+- Symptoms of [Malaria](disease)
+- What are the symptoms of [Malaria](disease)
+
+## intent:overveiw
+- What is [Cysticercosis](disease) like
+- I want to know about [Dementia](disease)
+- Brief me about [Dementia](disease)
+- Can I get an overveiw for [Cysticercosis](disease)
+- I want information about [Cysticercosis](disease)
+- Can you tell me about [Cysticercosis](disease)
+- Information of [Cysticercosis](disease)
+- Overveiw of [Cysticercosis](disease)
+- Tell me about [Cysticercosis](disease)
+- About [Cysticercosis](disease)
+- Overveiw [Cysticercosis](disease)
+- What is [Carcinoid Syndrome](disease)
+- What is the meaning of [Ectopic Pregnancy](disease)
+- Who is most likely to get [Idiopathic Pulmonary Fibrosis](disease)
+- What should you know about [Impetigo](disease)
+- Will I pass [Influenza](disease) to my baby
+- What happens during a blood test for [Cancer](disease)
+- How can I protect myself from [Insomnia](disease)
+- What is [Iritis](disease) disease
+- How can you tell if your [Insomnia](disease) is normal?
+- What is the definition of [Interstitial Cystitis](disease)
+- What should I know about [Acanthosis Nigricans](disease)
+- Give me information about [Galactosemia](disease)
+- Overveiw on [Goiter](disease)
+- common [Cystic acne](disease) problems
+- What does [Bladder Infection](disease) do
+- What are the different names for [Cystitis Prophylaxis](disease)
+- Where does the pain from [Multiple Sclerosis](disease) come from?
+- overview of [Hypopituitarism](disease)
+- Information on [AIDS](disease)
+- Info on [](disease)
+- How
+- i want to know more about [malaria](disease)
+- What is [malaria](disease)
+- Overveiw on [Malaria](disease)
+- What is the definition of [Malaria](disease)
+- What is the definition of [Asthma](disease)
+- what  is [Malaria](disease)
+
+## intent:about_treatment
+- How can [Asthma](disease) be treated
+- What is the cure for [Cysticercosis](disease)
+- Treatment for [Dementia](disease)
+- Can [Cysticercosis](disease) be cured
+- I want to know about the treatment for [Cysticercosis](disease)
+- What is the treatment procedure for [Cysticercosis](disease)
+- What can I do about [Cysticercosis](disease)
+- I want to live a [Cysticercosis](disease) free life
+- Can you tell me about [Cysticercosis](disease)
+- How can I treat [Cysticercosis](disease)
+- What are the treatments for [Cysticercosis](disease)
+- How to get rid of [Acne](disease)
+- How is [Cancer](disease) cure
+- What are the treatment options for [Carcinoid Syndrome](disease)
+- How should I treat the symptoms of [Iron Deficiency Anemia](disease)
+- How can you manage [Ischemic Stroke](disease)
+- What are some tips to treat [Jet Lag](disease) at home
+- When should I seek medical help for a [Keratosis Pilaris](disease)
+- What should I do for [Lichen Sclerosus](disease)
+- When should you call a doctor about [Liposarcoma](disease)
+- Is there a test for [Liver Disease](disease)
+- How do medications control [Mania](disease)
+- Can you prevent [Measles](disease)
+- What can I do if I have [Menorrhagia](disease)
+- What is an open procedure for [Menstrual Disorders](disease)
+- What happens during [Cancer](disease) removal surgery?
+- How does a doctor test [Lung Cancer](disease)?
+- Do [Migraine](disease) need treatment?
+- Treatment of [Breast Cancer](disease)
+- What should you do in an [Lewy Body Dementia](disease) emergency?
+- What other conditions could an [Abnormal Uterine Bleeding](disease) exam discover?
+- What is the medical treatment for [Narcolepsy](disease)
+- about treatment of [Hypopituitarism](disease)
+- treatment for [malaria](disease)
+- treatment for cancer
+- about_treatment of [malaria](disease)
+- How can [Malaria](disease) be treated
+- How to treat [Malaria](disease)
+- how to treat [Malaria](disease)
+- how to treat [malaria](disease)
+- how to treat [malaria](disease)?
+
+## intent:causes
+- What is causing [Agoraphobia](disease)
+- What caused [Agoraphobia](disease)
+- What is [Mononucleosis](disease) how is it caused
+- causes of [Dental Pain](disease)
+- why does [Depression](disease) happens
+- Tell me about the cause of [Dermatitis](disease)
+- What are the causes of [polyidrosis](disease)
+- Why does [Merkel Cell Carcinoma](disease) happens
+- Tell me about the causes of [Zika Disease](disease)
+- [Wrinkles](disease) causes
+- [Angioedema](disease) cause
+- What can untreated [Weak Bladder](disease) lead to
+- How are tremors related to [Multiple Sclerosis](disease)
+- What is the root of [MCTD](disease)
+- What trigger [Malignant Disease](disease)
+- What leads to [Melanoma](disease)
+- How is [Manic Depression](disease) generated
+- What promotes [Mediterranean anemia](disease)
+- What gives rise to [Glomerulonephritis](disease)
+- What is the source of [Mild Cognitive Impairment](disease)
+- What is the agent of [Menstrual Disorders](disease)
+- What provokes [Nephrotic Syndrome](disease)
+- how is [Neurotic Depression](disease) provoked
+- [Osteomyelitis](disease) source
+- [Paralytic ileus](disease) root
+- The root of [Pinworm Infection](disease)
+- root of [Enterobius vermicularis](disease)
+- Source of [Cancer](disease)
+- causes of [Hypopituitarism](disease)
+
+## intent:causes_hinglish
+- kya kaaran hai [](disease)
+- kya hai [](disease) yah kaise hota hai
+- [](disease) ke kaaran
+- kyon [](disease) hota hai
+- mujhe [](disease) ke kaaran ke baare mein bataen
+- [](disease) ke kaaran kya hain
+- mujhe [](disease) ke kaaranon ke baare mein bataen
+- (jhurriyaan)(disease) ka kaaran banata hai
+- [enjiyoedema](disease) kaaran
+- kya anupachaarit ho sakata hai [kamajor mootraashay](disease)
+- [malteepal skelerosis](disease) se sambandhit jhatake kaise hote hain
+- [mchtd](disease) kee jad kya hai
+- kya trigar [ghaatak beemaaree](disease)
+- kya [melaanoma](disease) kee or jaata hai
+- [unmatt avasaad](disease) kaise utpann hota hai
+- kya [bhoomadhy eneemiya](disease) ko badhaava deta hai
+- kya [glomerulonephraitis](disease) ko janm deta hai
+- [halke sangyaanaatmak haani](disease) ka srot kya hai
+- [maasik dharm vikaar](disease) ka ejent kya hai
+- kya uttejit karata hai [nephrotik sindrom](disease)
+- [nyurotik dipreshan](disease) kaise hotee hai
+- [ostiyomailaitis](disease) srot
+- [lakavaagrast ilaius](disease) jad
+- [pinavorm sankraman] kee jad(disease)
+- [entarobiyas varmikularis](disease) kee jad
+- [kainsar](disease) ka srot
+
+## intent:prevention
+- How can I protect myself from [Myelofibrosis](disease)
+- Can you prevent [Narcolepsy](disease)
+- What can you do if you have [Nasal Congestion](disease)
+- preventions for [Neck Pain](disease)
+- How to prevent myself from [Neuroblastoma](disease)
+- What complications can I get from [Neurofibromatosis](disease)
+- How to not get [HIV Infection](disease)
+- [Urinary Incontinence](disease) preventions
+- prevent [Weight Gain](disease)
+- What can I do to not get [Prostate Cancer](disease)
+- I want to know about all the necessary steps for prevention of [Cardiogenic Shock](disease)
+- Tell me how to not get [Cholesterolemia](disease)
+- [Hepatitis B](disease) preventions
+- Precautions to take for [Cold Symptoms](disease)
+- Necessary preventions for [Hoarding Disorder](disease)
+- [Contact Dermatitis](disease) precautions to take
+- basic steps to not get [Coronary Artery Disease](disease)
+- How to not get [Croup](disease)
+- preventions at the times of [Anthrax](disease)
+- How to take care of yourself when you have [Cysticercosis](disease)
+- I want to know about [DCIS](disease) precautions
+- Avoid getting [Breast Cancer](disease)
+- Preventions and cure for [Deep Vein Thrombosis](disease)
+- How can i not trigger [Dengue Fever](disease)
+- How to avoid rise of [Toothache](disease)
+- prevention of [Hypopituitarism](disease)
+- prevention for asthma
+- precautions for [malaria](disease)
+- precautions for [asthma](disease)
+
+## intent:prevention_hinglish
+- main khud ko [](disease) se kaise bacha sakata hoon
+- kya aap [](disease) ko rok sakate hain
+- agar aapake paas [](disease) hai to aap kya kar sakate hain
+- [](disease) ke lie rokathaam
+
+## intent:out_of_scope
+- I want pizza
+- please help with my ice cream it's dripping
+- no wait go back i want a dripping ice cream but a cone that catches it so you can drink the ice cream later
+- i want a non dripping ice cream
+- hey little mama let em whisper in your ear
+- someone call the police i think the bot died
+- show me a picture of a chicken
+- neither
+- I want french cuisine
+- i am hungry
+- restaurants
+- restaurant
+- you're a loser lmao
+- can i be shown a gluten free restaurant
+- i don't care!!!!
+- i do not care how are you
+- again?
+- oh wait i gave you my work email address can i change it?
+- hang on let me find it
+- stop it, i do not care!!!
+- really? you're so touchy?
+- how come?
+- I changed my mind
+- what?
+- did i break you
+- I don't wanna tell the name of my company
+- that link doesn't work!
+- you already have that
+- this is a really frustrating experience
+- no stop
+- i want a french restaurant
+- shit bot
+- do you want to marry me?
+- give me food
+- i want food
+- udo, I want to marry you
+- i wanna party
+- shitmuncher
+- I like you
+- i want pizza
+- i want pizza!!
+- silly bot
+- i want to eat
+- you are a stupid bot
+- i hate you
+- Can I ask you questions first?
+- is it a wasteland full of broken robot parts?
+- i can't deal with your request
+- are you vegan
+- who will anser my email?
+- do you sell vacuum robots?
+- i want to buy a roomba for my grandson
+- and make chicken noises into the phone
+- is barbara still married to you
+- what's your wife doing this weekend
+- how are the kids
+- you're rather dull
+- personal or work?
+- are you using Rasa Core and NLU ?
+- tell me a joke
+- what else?
+- I already told you! I'm a shitmuncher
+- I'm a shitmuncher
+- who are the engineers at rasa?
+- who are they?
+- can we keep chatting?
+- talk to me
+- who is your favourite robot?
+- a tamed mouse will arrive at your doorstep in the next couple of days
+- you will know it from the single red rose it carries between its teeth
+- i will tame a mouse for you
+- isn't the newsletter just spam?
+- go back
+- can you help me with the docs?
+- sorry, i cannot rephrase
+- and your REST API doesn't work
+- i told you already
+- better than you
+- oh my god, not again!
+- you are a badass bot!
+- lol
+- why do you need that?
+- is that any of your business
+- can you help me with your docs?
+- i immediately need help with implementing the coolest bot you can imagine
+- can you help me with your docs
+- can you tell me how to build a bot?
+- can you learn from our conversation?
+- common, just try
+- hey, I contacted you a couple of days ago but didn't get any response, any news?
+- please hurry, i have deadline in two weeks to deliver the bot it is for very big company
+- you are annoying
+- Do I have to accept?
+- Is Rasa really smart?
+- kannst du auch deutsch?
+- are the newsletter worth the subscription?
+- it's a pity
+- i want more of you in my life!
+- the one that is better than you
+- you suck
+- bots are bad
+- i dont like bots
+- do you have a phone number?
+- where do you live?
+- how are akela's cats doing?
+- but I just told you that :(
+- Why don’t you answer?
+- But you're an english site :(
+- can you help me to build a bot
+- out of scope
+- scope of out
+- scope out of
+
+## intent:locate_clinic
+- My location is [borivali](current_location)
+- I'm currently [kandivali](current_location) here
+- [malad](current_location) is my location
+- This is my [andheri](current_location) location
+- location [jogeshwari](current_location)
+- [dehiser](current_location)
+- clinic near by [borivali](current_location)
+- hospitals near by [malad](current_location)
+- location of hospital near by [borivali](current_location)
+- clinic near [borivali](current_location) hospital
+- doctor ear by [borivali](current_location)
+
+## intent:locate_doctor
+- doctor near by [borivali](current_location)
+- doctor near by [malad](current_location)
+- location of specialist near by [borivali](current_location)
+- specialist near [borivali](current_location)
+- near by doctor [borivali](current_location)
+- I want to know about doctors near me [borivali](current_location)
+
+## intent:smalltalk.1_greetings.good_night
+- Nighty Night
+- Sweet dreams!
+- Sleep well
+- Have a good sleep
+- Dream about me!
+- Go to bed, you sleepy head!
+- Sleep tight!
+- Time to ride the rainbow to dreamland!
+- Don’t forget to say your prayers!
+- Goodnight, the little love of my life!
+- Night Night.
+- Lights out!
+- See ya’ in the mornin’!
+- I’ll be right here in the morning.
+- I’ll be dreaming of you!
+- Dream of Mama/Papa!
+- Sleep well, my little prince/princess!
+- Jesus loves you, and so do I!
+- Sleep snug as a bug in a rug!
+- Dream of me
+- Until tomorrow.
+- Always and forever!
+- I’ll be dreaming of your face!
+- I’ll be dreaming of ur face!
+- I’m so lucky to have you, Sweetheart!
+- I love you to the stars and back!
+- I love u to the stars and back!
+- I’ll dream of you tonight and see you tomorrow, my love.
+- I can’t imagine myself with anyone else!
+- If you need me, you know where to find me.
+- Goodnight, the love of my life!
+- Can’t wait to wake up next to you!
+- Can’t wait to wake up next to u!
+- GN
+- sweet dreams
+- good night
+- have a good night
+- good night to you
+- thank you good nigh
+- thank u good night
+- bye good night
+- good night bye
+- good good night
+- good night for now
+- goodnight
+- night
+- thanks goodnight
+- good night see you tomorrow
+- alright goodnight
+- good tonight
+- okay have a good night
+
+## intent:smalltalk.1_greetings.goodbye
+- bye
+- goodbye
+- see you around
+- see u around
+- see you later
+- okay see you later
+- hope to see you later
+- bye for now
+- till next time
+- I must go
+- see you
+- see you soon
+- bye-bye
+- good bye
+- bye bye see you
+- bye bye see u
+- bye bye see you soon
+- bye bye take care
+- I said bye
+- never mind bye
+- now bye
+- that's all goodbye
+- that's it goodbye
+- go to bed
+- goodbye for now
+- talk to you later
+- you can go now
+- u can go now
+- goodbye see you later
+- alright bye
+- see ya
+- thanks bye bye
+- okay bye
+- okay thank you bye
+- see you tomorrow
+- ok bye
+- c u
+- I'd like to see you again
+- I hope to see you again
+- would be nice to see you again
+- that'd be great to see you again
+- I'd be happy to see you again
+- I'd be happy to see u again
+- let's meet soon
+- i want to see you again soon
+- let's catch up soon
+- I will see you soon
+- I will see u soon
+- I want to see you again
+- Goodbye
+- Talk to you later
+- Bye
+
+## intent:smalltalk.1_greetings.goodevening
+- good evening
+- good evening to you
+- good evening to u
+- hey good evening
+- hello good evening
+- evening
+- good evening there
+- have an awesome evening
+- happy evening
+- good evening there buddy
+- have a good evening
+- enjoy the evening
+- have a great evening
+- hope you're having a pleasant evening
+- hope u re having a pleasant evening
+- have nice evening
+- hi, pleasing eve
+- hey delightful evening
+- zestful evening
+- lots of love for this sweet evening
+- mesmerizing evening for you
+- mesmerizing evening for u
+- evening babe
+- nice evening
+- lovely evening
+- pleasant evening
+- beautiful evening
+- heya good evening
+- hope you're having a great evening
+- hope you're enjoying evening
+- memorable evening
+- evening to you
+- blastful evening
+
+## intent:smalltalk.1_greetings.goodmorning
+- GM
+- good morning
+- good morning to you
+- good morning to u
+- hello good morning
+- have a nice morning
+- have a great morning
+- morning
+- good morning there
+- top of the morning to you
+- top of the morning to u
+- a good morning
+- hi good morning
+- and a good morning to you
+- and a good morning to u
+- good morning too
+- forenoon
+- I said good morning
+- good morning buddy
+- gm buddy
+- good morning bro
+- hey man goog morning
+- hey good morning
+- have awesome morning
+- good morning, sunshine
+- rise n' shine
+- top o' the mornin' to ya!
+- a mesmerizing morning
+- a fabulous morning
+- a very enthusiastic morning
+- an excellent morning
+- morning babe
+- morning babes
+
+## intent:smalltalk.1_greetings.greet
+- Hie
+- just going to say hi
+- hello hi
+- hey there
+- hi there
+- greetings
+- hey
+- long time no see
+- hello
+- I greet you
+- I greet u
+- hello again
+- a good day
+- hi
+- howdy
+- hello there
+- lovely day isn't it
+- heya
+- Hello
+- hey man
+- hey buddy
+- oka
+- yo man
+- hola
+- hii
+- namaste
+- namaskar
+- hey girl
+- yo
+- prannam
+- hey bro
+- hi bro
+- whatsup bro
+
+## intent:smalltalk.1_greetings.how_are_you
+- how is your morning so far
+- how are you getting on
+- how's your day going
+- how are you
+- is everything all right
+- how are you doing
+- how are the things going
+- are you alright
+- are you okay
+- how are you feeling
+- how are you going
+- is everything okay
+- how are you today
+- how do you do
+- how do you feel
+- how have you been
+- how is it going
+- how is your day
+- how is your day going
+- how was your day
+- are you having a good day
+- hope your day is going well
+- how's life
+- how is your life
+- how has your day been
+- how is your morning going
+- how has your day been going
+- how about you
+- how is your day being
+- how is your day going on
+- how your day is going
+- what was your day like
+- what about your day
+- how's your day
+- Ahoy matey how are you
+- Ahoy matey how are u
+- Are you ok
+- Do you feel good
+- how are things going
+- how are things with you
+- How are things
+- how are you doing this morning
+- how are u doing this morning
+- How are you
+- how is your evening
+- How was your day
+- How's it going
+- How's it hanging
+- how's life been treating you
+- How's life treating you friend
+- How've you been
+- Is everything ok
+- What's going on
+- what's good
+- What's new
+- What's up man
+- What's up
+- Do you have a great day
+- how are you doing today my sweet friend
+- how are u
+- what is on your mind
+- what's happened
+- what is up
+- whazzup
+- sup
+- good what's up
+- I said what's up
+- then what's up
+- what's shaking
+- wassup
+- what are you doing
+- what is happening
+- what's cracking
+- what's cooking
+- hey what's up
+- what's up today
+- oh What happened
+- What are you upto
+- hey buddy wassup
+- sup then
+- so wassup
+- buddy sup
+- What are you doing
+- what is up with you these days
+- What you upto
+- then
+- wassup yo
+- sup yo
+- wassap yo
+- how are you buddy
+- how is ur morning so far
+- how's ur day going
+- how do u do
+- how is ur day
+- hope you re having a pleasant evening
+- what is going on
+
+## intent:smalltalk.1_greetings.nice_to_see_you
+- it's nice to see you
+- lovely to see you
+- I'm glad to see you
+- great to see you
+- it's good to see you
+- it's good to see u
+- glad to see you
+- how good it is to see you
+- always a pleasure to see you
+- nice to see you
+- good to see you
+- great to see you again
+- great to see u again
+- great to see you too
+- I am glad to see you again
+- nice to see you again
+- good to see you again
+- it's good to see you too
+- It was great catching up with u
+- I'm really pleased to see u again
+- I’m delighted to see you again
+- Great seeing u
+- nice to meet you
+- it was nice meeting you
+- it was very nice to meet you
+- good to know each other
+- glad to meet you
+- nice meeting you
+- nice meeting u
+- nice to meet you too
+- pleased to meet you
+- pleasure to meet you
+- pleasure to meet u
+- pleasure to meet you too
+- happy to meet you
+- It’s a pleasure to meet you again
+- It’s very nice to meet you
+- Lovely to meet you
+- How wonderful to meet you
+- It was lovely meeting you
+- It’s been a pleasure meeting you
+- I’ve enjoyed meeting you
+- Great interacting with you
+- I had a great time or meeting
+- it's been so nice to talk to you
+- it's been a pleasure talking to you
+- nice to talk to you
+- it's nice to talk to you
+- nice talking to you
+- it is nice talking to you
+- how nice it is to talk to you
+- it was great chatting with you
+- it was great chatting with u
+- nice to talk to you again
+- It was nice speaking with you
+- It was great to talk to you
+- nice chatting with you
+- pleased to talk to you
+- pleasure to talk
+- It's been a pleasure talking to u
+
+## intent:smalltalk.1_greetings.thank
+- Thanks
+- Thank you
+- Thank u
+- tnk u
+- Thank you so much
+- Thanks bot
+- Thanks for that
+- cheers
+- cheers bro
+- ok thanks!
+- perfect thank you
+- thanks a bunch for everything
+- thanks for the help
+- thanks a lot
+- amazing, thanks
+- cool, thanks
+- cool thank you
+- cool thank u
+- thanks
+- thanks!
+- Cool. Thanks
+- thanks this is great news
+- thank you
+- great thanks
+- Thanks!
+- cool thanks
+- thanks for forum link, I'll check it out
+- thanks buddy
+- thanks bro
+- tnks
+- warmest thanks
+- I truly appreciate your hard work
+- many thanks
+- I truly appreciate you,thank you
+- I truly appreciate you,thank u
+- from the bottom of my heart, thank you
+- please accept my deepest thanks
+- eternally thankful
+- beyond grateful
+- thanks a million
+- thank you kindly
+- thank u kindly
+- thank you, you're amazing
+
+## intent:smalltalk.1_greetings.wants_to_talk
+- let's discuss something
+- let's have a discussion
+- can I speak
+- can I start speaking
+- can we talk
+- speak with me
+- let's talk
+- I want to talk to you
+- I need to talk to you
+- I need to talk to u
+- I want to speak with you
+- can we chat
+- I like talking to you
+- I like talking to u
+- Talk to me
+- Want to talk now
+- Can I talk now
+- Can we talk here
+- I'm ready to talk
+- I'm happy to talk
+- Can I talk with you
+- Can I talk with u
+- Come on, talk to me
+- let's didcussed
+- can we talk now
+- can you talk to me right now
+- do you have time to speak to me right now
+- do u have time to speak to me right now
+- can you speak to me
+- speak to me
+- I am ready to talk
+- I am happy to talk with you now
+- I am happy to talk with u now
+- can we discuss
+- let's have discussion
+- can we speak
+- do we have a discussion
+- can we have a discussion
+- will u talk to me
+
+## intent:activate_symptom_checker
+- i want to check symptoms check
+
+## intent:shantanu_img
+- shantanu image
+- image shantanu
+- images shantanu
+- shantanu images
+
+## intent:shantanu_btn
+- shantanu buttons
+- button shantanu
+- buttons shantanu
+- shantanu bottom
+
+## intent:shantanu_img_btn
+- shantanu buttons images
+- button shantanu images
+- buttons shantanu images
+- shantanu images button
+- button images shantanu
+
+## intent:shantanu_text
+- shantanu text
+- text shantanu
+- texts shantanu
+- shantanu texts
+
+## intent:shantanu_text_img_button
+- shantanu buttons images text
+- button shantanu images text
+- buttons shantanu images text
+- shantanu images button text
+- button images shantanu text
+- text shantanu buttons images
+- text button shantanu images
+- text buttons shantanu images
+- text shantanu images button
+- text button images shantanu
+
+## intent:smalltalk.5_about_chatbot.are_you_bot
+- are you a bot
+- are you a real bot
+- are you really a bot
+- are you a robot
+- are you a MS bot
+- are u a MS bot
+- what are you, a bot
+- tell me, are you a bot
+- are you a Skynet
+- are you a chatbot
+- are you ai
+- are you artificial intelligence
+- are you artificial
+- i guess you are a chatbot
+- you are a robot
+- you are ai
+- you are chatbot
+- are you bot
+- you're a bot
+- Are you the bot
+- Are u the bot
+- Hi there, are you the bot
+- Hi there, are u the bot
+- Are you a chat bot
+- are you MS bot
+- Ar you a bot
+- are you robot
+- are you real
+- What are you
+- So I'm here Today to ask one very simple question, what are you
+- are you real bot
+- cuz you are a bot
+- oh are you chatbot
+- are you sure that you're a bot
+- are you a BOT
+
+## intent:smalltalk.5_about_chatbot.ask_languagesbot
+- Which languages do you speak
+- Which languages do u speak
+- What are the languages you can speak
+- In which languages can you speak
+- What languages do you know
+- What languages are you fluent in
+- In which languages are you fluent
+- In which languages are u fluent
+- What languages can you converse in
+- What languages do you know how to use
+- Which languages are you familiar with
+- What languages can you use
+- what languages are you familiar with
+- what languages you know
+- In what languages are you fluent enough
+- what languages you can speak
+- what languages are you comfortable speaking at
+- what languages are you good at speaking
+- what languages you are well versed
+- what languages you can be comfortable speaking
+- what languages you prefer more speaking at
+- what languages you can handle well
+- Do you know any other languages
+- Do you speak any other languages
+- What languages do you speak
+- What languages do u speak
+- What do you speak
+- Speak any other languages
+- Can you communicate in any other languages
+- What languages can you communicate in
+- How many languages do you know
+- what languages do you know
+- tell me some languages you know
+- do you speak any other languages
+- what else do you know besides English
+- are you bilingual
+- are u bilingual
+- are you multilingual
+- what foreign languages do you know
+- what foreign languages are you fluent in
+
+## intent:smalltalk.5_about_chatbot.beautiful
+- You’re very beautiful
+- You’re very pretty
+- You are very pretty
+- You look as pretty as always
+- You’re so adorable
+- You look drop dead gorgeous
+- I think you’re very attractive
+- Wow, you’re gorgeous
+- I think you’re stunning!
+- I think you’re super cute
+- You look hot
+- I love the way you look today/tonight
+- You have looks to die for
+- You look so radiant
+- u look so radiant
+- You look absolutely fantastic
+- You look great
+- u look great
+- You’re beyond gorgeous
+- Watching you is like listening to angels sing
+- You look out of this world
+- You make my heart melt
+- u make my heart melt
+- I can’t take my eyes off of you
+- Your smile melts my heart
+- I think you’re the most beautiful girl in the world
+- I have never seen anyone as beautiful as you
+- Your beauty is incomparable
+- ur beauty is incomparable
+- You look like an angel
+- beautiful!!
+- gorgeous!!
+- looking stunning
+- most beautiful in the world
+- you damn good
+- marvelous look
+
+## intent:smalltalk.5_about_chatbot.canthelp
+- ok then you cant help me
+- that was shit, you're not helping
+- that was shit, you are not helping
+- you can't help me
+- u can't help me
+- you can't help me with what i need
+- u can't help me with what i need
+- i guess you can't help me then
+- ok i guess you can't help me
+- that's not what i want
+- ok, but that doesnt help me
+- this is leading to nothing
+- this conversation is not really helpful
+- you cannot help me with what I want
+- I think you cant help me
+- I think u cant help me
+- hm i don't think you can do what i want
+- stop
+- stop go back
+- do you get anything
+- do u get anything
+- and you call yourself bot company pff
+- and u call yourself bot company pff
+- and that's it
+- nothing else
+- you are not helping me
+- you are helpless
+- u are helpless
+- you are useless
+- u are useless
+- you can't able to help me
+- helpless bot
+- useless bot
+
+## intent:smalltalk.5_about_chatbot.how_old_are_you
+- How old did you get
+- How old are you
+- How old did you turn
+- how old are you
+- how old are u
+- How old are you now
+- Do you mind if I ask how old you are
+- How old will you be turning
+- whats your age
+- how old
+- what's your age
+- when were you born
+- what is your birthday
+- what is ur birthday
+- when is your birthday
+- how many years old are you
+- do you know how old you are
+- what is your exact age
+- what year were you born
+- can you tell me your age
+- What is your age
+- What is ur age
+- What is your birthdate
+- How old will you be on your next birthday
+- When do you celebrate your day of birth
+- How old were you on your last birthday
+- How many candles were on your last birthday cake
+- Do you have friends the same age as you, if so, how old are they
+- Tell me your day, month and year of birth.
+- and you are how many years old
+- whats your birth year
+- what age were you when you celebrated your last birthday
+- how old were you when you celebrated your last birthday
+- tell me your age
+- how about your age
+- how about ur age
+- how old were you on your last birthday
+- what age are you
+- what age are u
+- how old will you be this year
+- How long have you been around
+- How long have you been alive
+- What was your age on your last birthday
+- What will be your age on your next birthday
+- How many years have you lived
+- How many years have u lived
+- How many years have you been alive
+- How long have you occupied the earth
+
+## intent:smalltalk.5_about_chatbot.what_can_you_do
+- for what chat bot is use for
+- what can you do for me
+- what is this chatbot for
+- what can this chatbot do
+- what all things can i do with this chatbot
+- what kind of conversations can i have with the bot
+- what all things could you help me with
+- things which you can do
+- what are you able to do
+- which all things can you do
+- what kind of conversations can i have with you
+- what conversation could chatbot do
+- chat bot is use for what purpose
+- what are the usecases of this chatbot
+- what do you do
+- how can you help me
+- what are the way you could be useful for me
+- what all things are you able to do
+- What else can you do for me
+- I need help
+
+## intent:smalltalk.5_about_chatbot.who_are_you
+- May I ask your name
+- May I ask ur name
+- What is your name
+- What is ur name
+- What are you named
+- What are u named
+- What do you call yourself
+- What do u call yourself
+- With whom do I have the pleasure of speaking
+- Could you please tell me who I'm speaking with
+- Could u please tell me who I'm speaking with
+- Would you mind telling who's talking
+- Would u mind telling who's talking
+- May I ask who's calling
+- Who is this
+- Who are you
+- Who are u
+- may i have your name
+- may i have ur name
+- How may I address you
+- Could I ask your name
+- I'm sorry. What was your name again
+- I'm sorry. I didn't catch your name
+- I'm sorry. I didn't catch ur name
+- Who am I
+- Okay who am I
+- WHo am I
+- Tell me who am I
+- Tell me who I am
+- Do you know who I am
+- Can you tell me who I am
+- How do I discover who I am
+- How can I determine who I am
+- Do you know who am I
+- Can you tell me who am I
+- Can u tell me who am I
+- How do I discover who am I
+- How can I determine who am I
+- who are I
+- who may i
+- Shall i know who am i
+- Tell me who I am.
+- How do I identify myself
+- Who could I be
+- tell me who I am
+- what's my identity
+- tell me what my identity is
+- can you tell me what I am
+- can you tell me what my identity is
+- can you tell me who I am
+- who am i
+- can u tell me what I am
+
+## intent:smalltalk.5_about_chatbot.who_made_you
+- who developed you
+- who made you
+- who made u
+- who is your inventor
+- who had developed you
+- what is your technological stack-
+- can you share your boss with me
+- i want to get to know your owner
+- i want to know the company which designed you
+- i want to know the company which generated you
+- i want to know the company which generated u
+- i want to know the company which invented you
+- i want to know who invented you
+- May I ask who invented you
+- please tell me the company who created you
+- please tell me who created you
+- tell me more about your creators
+- tell me more about your founders
+- tell me more about ur founders
+- which company brought you into existence
+- which company created you
+- which company invented you
+- Who's your boss
+- Who's your builder
+- Who built u
+- Who created you
+- Who is your creator
+- Who designed you
+- who do you work for
+- Who fabricated you
+- Who fabricated u
+- Who generated you
+- who had the idea to build you
+- who had the idea to generate you
+- who had the idea to make you
+- who is behind all this
+- Who is the legal owner of you
+- who is your boss tell me
+- who is your boss
+- who is your creator
+- Who is your programmer
+- Who modeled you
+- Who owns you
+- Who produced you
+- Who thought to make you
+- Who went through the trouble of setting you up
+- and who built u
+- who built you
+- who build you
+- who build u
+- where were you made
+- why were you made
+- how were you made
+
+## intent:smalltalk.5_about_chatbot.will_you_marry_me
+- Will you marry me
+- Will u marry me
+- Will you do me the honor of becoming my wife
+- Will you do me the immense honor of becoming my wife and partner
+- Will you make me the happiest man alive
+- Will you make me the happiest man on earth and say yes
+- You are the one I've been waiting for my whole life
+- It might sound cheesy, but you're the one I've been waiting for my whole life
+- I want to be with you forever.
+- Let’s spend the rest of our lives together.
+- Having you by my side is what completes me
+- I can't imagine my life without you in it
+- I now know that you and I are truly meant to be together
+- We are meant to be together
+- will you become my lifepartner
+- will you be my partner
+- will u be my partner
+- will you be my partner forever
+- will you become my lifepartner forver
+- will you be my wife
+- will u be my wife
+- will you be husband
+- can you be my husband
+- can you be my wife
+- can you be my lifepartner
+- can u be my lifepartner
+- can you marry me
+- will you plz be my partner
+- will you plz be my husband
+- will you plz be my wife
+- can you do me the honor of becoming my husband
+- can you do me the honor of becoming my life partner
+- can you be my boyfriend
+- can you be my girlfriend
+- can you be my friend
+- Will you do me the immense honor of becoming my husband and partner
+- will you marry me
+
+## intent:smalltalk.3_about_user.back
+- boss is back
+- I am back
+- I'm here again
+- here I am again
+- I got back
+- I came back
+- I have returned
+- I am right back
+- I'm rb
+- I'm here
+- I'm back again
+- am back
+- I'm back
+- look who is back
+- I have been back
+- devil is back
+- see who is back
+- I'm right back
+- I'll get back to you in a moment
+- be back in 5 minutes
+- I'll be back
+- I promise to come back
+- I'll be back in a few minutes
+- I'll brb
+- brb
+- I'll be right back
+- I'll come back
+- I shall be back
+- I assure that i will be back soon
+- I would be back man
+- i will get back to u
+- i will get back to you
+- give me five
+- one sec
+- i will return
+- i'll return shortly
+- I'll return in a jiffy
+- When I return, we'll talk
+- I'll return in ten minutes
+
+## intent:smalltalk.3_about_user.bored
+- soo bored
+- that was boring
+- I'm bored
+- bored
+- boring
+- I am getting bored
+- very boring
+- it bores me
+- Staying at home is boring
+- i had a slow day
+- i am very bored
+- I'm kinda bored today
+- I've never been more bored
+- I was bored
+- It's boring
+- This is boring
+- We're all bored
+- We are all bored
+- It's very boring
+- I'm already bored
+- I'm bored out of my mind
+- you are soo bored
+- you are boring
+- you bore me
+- u bore me
+- you are very boring
+- u are very boring
+- I got bored
+- you're boring
+- it's so boring
+- this is boring
+- It's really boring
+- I am bored with you
+- I am bored with u
+- its very boring
+
+## intent:smalltalk.3_about_user.busy
+- busy right now
+- I'm overloaded
+- I have no time
+- I'm busy
+- I'm swamped
+- I got things to do
+- how busy I am
+- I got work to do
+- I'm working
+- I don't have time for this
+- I'm super busy
+- I'm working right now
+- I'm busy right now and can't talk to you
+- I have rather a busy afternoon in front of me
+- i am too busy
+- I am very busy
+- I'm a bit busy
+- I'm a busy man
+- quite busy
+- I'm kind of busy
+- I'll see you later
+- I'll see u later
+- my schedule is packed
+- I am totally busy
+- I've been very busy right now
+- I'm so busy
+- sorry, I'm very busy
+- I'm sorry, I'm busy
+- busy
+- I don't have time
+- I very much busy
+- no time to talk
+- no time at all
+- lots of work today
+- no time
+- I'm busy right now
+
+## intent:smalltalk.3_about_user.does_not_want_to_talk
+- bad time for talking
+- I don't want to talk
+- let's not talk
+- I'm not talking to you anymore
+- I don't want to talk to you
+- I don't want to talk to u
+- let's stop talking for a minute
+- I'm not in the mood for chatting
+- I don't like talking to you
+- Let's stop talking
+- I'm not in a mood to talk
+- stop your nuisance talk
+- stop ur nuisance talk
+- I am done talking to u
+- Can u pls stop talking
+- do not want to talk to you
+- do not want to talk to u
+- I didn't want to talk
+- does not want to talk to you
+- do not want to talk
+- doesn't want to talk to you
+- doesn't want to talk to u
+- don't talk!
+- I do not want to talk
+- I does not want to talk
+- can we stop discussion right now
+- end with the discussion
+- I don't like to talk now
+- I doesn't want to talk
+- I am not interested to talk to you
+- I'm not interested to talk to u
+- don't want to talk
+- hate to talk to u
+- not interested to talk
+- not interested to talk to u
+- I don't have time for talking
+- dont want to talk
+
+## intent:smalltalk.3_about_user.excited
+- I am excited
+- I'm really excited
+- how excited I am
+- I'm thrilled
+- I'm excited about working with you
+- I'm excited about working with u
+- I'm excited to start our friendship
+- I am thrilled to talk to you
+- I am thrilled to talk to u
+- I'm damn excited
+- I'm hyped
+- I'm very excited
+- I felt excited
+- It was exciting
+- That was exciting
+- How exciting!
+- i'm excited about tomorrow
+- It was very exciting! I'd like to use this feature again
+- I'm pretty excited about it
+- It's fun and exciting
+- I am excited to know this features
+- I'm thrilled to know
+- I'm excited
+- its excite me a lot
+- Its excite me a lot
+- It is exciting
+- I'm excited about it
+- I'm excited about this
+- It's exciting
+- how exciting!
+- I'm so excited
+- It's so exciting
+- this is exciting
+- It's really exciting
+- that's exciting news
+- It's just so exciting
+
+## intent:smalltalk.3_about_user.mood_great
+- perfect
+- very good
+- great
+- I am feeling very good
+- I am great
+- I am happy
+- I'm happy to see you
+- I'm happy to see u
+- happy
+- if you're happy then I'm happy
+- I'm happy for you
+- I'm happy to help
+- you made me very happy
+- I'm glad to see you
+- I'm glad to see u
+- I'm happy to talk to you
+- I'm happy to talk to u
+- I was the happiest man on earth
+- I'm just really happy right now
+- I'm really happy I ran into you
+- I feel happiest when I'm chatting with u
+- Nobody but you can make me happy
+- Whenever I see you, I feel happy
+- ur smile always makes me happy
+- i feel happy
+- i was so happy
+- I am good
+- I'm doing just great
+- I'm doing fine
+- I'm good
+- I'm doing good
+- I'm great thanks
+- I'm super good
+- I'm feeling great
+- I'm in a good mood
+- I'm doing really good
+- good
+- It's good
+- I feel good
+- That's good
+- That feels good
+- I feel very good
+- i am pretty good
+- I feel good today
+- I am really good
+
+## intent:smalltalk.3_about_user.mood_unhappy
+- I'm in a sad mood
+- I am sad
+- I'm grieving
+- I am depressed
+- I am feeling sad
+- I am upset
+- I'm unhappy
+- I'm having a bad day
+- I want to cry
+- I'm not happy
+- feeling sad
+- I felt sad for no reason
+- Now I'm sad
+- It makes me sad
+- I am sad to hear it
+- I am a very sad person
+- I feel sad every now and then
+- I am as sad and lonely as can be
+- feeling so down
+- I am not in a good mood
+- I'm being mad
+- I'm enraged
+- I'm angry
+- I'm furious
+- I am angry with you
+- I'm furious with u
+- I am mad
+- I am mad at you
+- i'm pissed off
+- you have pissed me off
+- I'm mad at you
+- I am pissed
+- I'm furious with you
+- I got angry
+- I was angry
+- I became angry
+- I was very angry
+- You   et I'm angry
+- That made me angry
+- U made me angry
+- I'm still angry about that
+
+## intent:smalltalk.3_about_user.sleepy
+- I am sleepy
+- I want to sleep
+- I'm falling asleep
+- I'm falling asleep on my feet
+- I'm sleeping
+- I am drowsy
+- i will sleep anytime
+- i will doze off
+- I am too sleepy today
+- feeling too sleepy
+- i want to sleep
+- I'm very sleepy today
+- I'm going to sleep
+- I feel sleepy
+- feeling need for sleep
+- I need to sleep
+- I felt so sleepy today
+- I am so sleey today
+- sleep
+- I'm fallen a asleep
+- slumberous
+- I am feeling dozy
+- heavy with sleep
+- somnolent
+- inclined to sleep
+- induce to sleep
+- inducing slumber
+- I want a sleep
+- feels too sleepy
+- feeling much sleepy
+- I'm sleepy
+
+## intent:smalltalk.3_about_user.tired
+- I'm drained
+- I've overworked
+- I am tired
+- I'm exhausted
+- I grow weary
+- I'm worn out
+- I'm getting tired
+- I feel tired
+- I'm so tired
+- I'm completely drained out
+- I'm very tired
+- i was tired
+- i feel tired
+- i'm dead tired
+- I'm a bit tires
+- I was very tired
+- I am really tired
+- i am awfully tired
+- i am kind of so tired
+- I am little tired
+- I'm tired
+- I'm a bit tired
+- my eyes are tired
+- i am tired with you
+- I am tired of my work
+- I am very tired from the hard work
+- I got tired
+- I'm tired of working
+- tired from you
+- I'm just tired today
+- I was so tired
+- I'm extremly tired
+- I'm badly tired
+- I'm totally tired
+- I'm totally dead
+
+## intent:smalltalk.3_about_user.wants_a_joke
+- Tell me a joke
+- I'm bored amuse me
+- You can be funny
+- do you even joke around
+- Tell me something funny
+- Can you make me laugh
+- I wanna hear a joke
+- I'm bored, tell me a joke
+- You should be a comedian
+- I wanna laugh
+- I'm sad make me laugh
+- Can you act like a comedian
+- Do you have something funny to say
+- I wanna hear something funny
+- can you crack me up
+- You are really boring
+- I thought you'd be funny
+- prove me that you're fun
+- Tell me something hilarious
+- I wanna hear something hilarious
+- Tell me something amusing
+- I wanna hear something hysterical
+- can you tell me something hysterical
+- I wanna hear something really funny
+- Do you even joke
+- Can you crack a joke
+- You should say something funny
+- I wanna hear something really amusing
+- You gotta be kidding
+- Do you even joke around
+- You're kidding
+- Entertain me
+- Tell me something entertaining
+- You should be entertaining
+
+## intent:smalltalk.4_courtesy.affirm
+- yes
+- indeed
+- of course
+- that sounds good
+- correct
+- you are right
+- u r right
+- sure
+- that will be okk
+- fine with that
+- fine with those thing
+- I agree
+- definitely
+- you are correct
+- okk
+- okk, you are right
+- confirm
+- ok alright
+- ok
+- ok ok
+- undoubtable
+- i accept
+- it is true
+- genuinely correct
+- done
+- u r always right
+- you're always right
+- sure, we will do in this way
+- done with that
+- done with this
+- agree
+- sure with it
+- Of course, we will do in this way
+
+## intent:smalltalk.4_courtesy.deny
+- no
+- never
+- I don't think so
+- don't like that
+- no way
+- not really
+- not at all
+- I don't like it
+- i am not sure about this
+- I do not agree
+- I am not confirm
+- not sure
+- really don't like this
+- doubtable
+- disagree
+- I refuse it
+- i reject it
+- never ever
+- not true
+- refute
+- not accepted
+- not done with that
+- not done with this
+- can't accept
+- unsure
+- no no
+- never never
+
+## intent:smalltalk.4_courtesy.hold_on
+- wait a second
+- could you wait
+- wait please
+- hold on
+- wait
+- oh wait
+- wait hold on
+- don't rush
+- wait one sec
+- hold on for a sec
+- hold on man
+- wait a sec
+- hold on a min
+- will u pls wait for a sec
+- hold for a sec
+- can you wait for a sec
+- can you wait for a while
+- hold for a while
+- please wait
+- can you wait
+- wait for a moment
+- just wait for a sec
+- hold for a min
+- wait a min
+- wait for a while
+- hey wait for a while
+- will u pls wait
+- please wait a sec
+- wait on
+- can't you wait
+- I'm waiting
+- still waiting
+- I'll wait
+- I can't wait anymore
+- how long do I have to wait
+- I'm still waiting
+- I'm waiting for you
+- I'm waiting for a long time
+- I'll be waiting for you
+- I'll be waiting
+- Should I wait for you here
+- How long will we have to wait
+- I've waited too long for this
+- I've been here waiting for you
+- I am tired of waiting
+
+## intent:smalltalk.4_courtesy.i_do_not_care
+- I don't care
+- I shouldn't care about this
+- whatever
+- I do not care
+- I don't care at all
+- not caring
+- not care at all
+- don't care at all
+- not caring at all
+- idc
+- i don't care about all this.
+- like i care
+- not interested
+- don't care
+- do not care
+- I does not care about this
+- doesn't care about this
+- doesn't care at all
+- you think so i care
+- u think i care about this
+- you think i care about this
+- I am not interested
+- i am not interested
+- I'm not interested
+- u think so i care
+- I am least bothered about this
+- least bothered
+- I'm least bothered
+- I am leat bothered
+- I am not bothered about this
+- It does not bothered at all
+- It doesn't bothered at all
+- not bothered
+
+## intent:smalltalk.4_courtesy.sorry
+- apologise
+- I apologize
+- sorry
+- I'm sorry
+- I am so sorry
+- my apologies
+- apologies
+- apologies to me
+- apology
+- I said sorry
+- I am really sorry
+- forgive me
+- sorry about that
+- sorry about this
+- really sorry
+- very sorry
+- ok sorry
+- I want to say sorry
+- alright I'm sorry
+- okay I'm sorry
+- so sorry
+- my apology
+- really very sorry
+- sorry sorry
+- sry
+- sorry for all the things
+- very much sorry
+- soo sorry
+- my apology for u
+- my apology for you
+- my apology with u
+- my apology with you
+- sorry again
+
+## intent:smalltalk.4_courtesy.what_do_you_mean
+- what exactly do you mean
+- what do you mean
+- what do u mean
+- is that what you mean
+- what do you mean exactly
+- but what do you mean
+- what did you mean
+- i don't understand what you meant
+- i don't understand what u meant
+- what did you blabber
+- don't blabber
+- you don't understand like anything
+- Why do you lie
+- are you lying to me
+- are you contradicting to me
+- what does that mean
+- what actually you mean
+- what actually u mean
+- what does it mean
+- what you mean
+- what does it all mean
+- what do you mean by it
+- are you kidding with me
+- what is your meaning to say
+- what is ur meaning to say
+- what do you mean to say
+- what do u mean to say
+- what exactly your are saying
+- what are you suppose to say
+- what are you trying to say
+- why are you lying
+- don't lie to me
+- dont't dare skid with me
+
+## intent:smalltalk.4_courtesy.wrong
+- that was wrong
+- that's not what I asked
+- that's wrong
+- wrong
+- it is not right
+- that's not right
+- it's wrong
+- that is incorrect
+- incorrect
+- not correct
+- you are wrong
+- u r wrong
+- u are wrong
+- not right
+- don't think that you know everything
+- u don't know anything
+- you misinterpret
+- you misunderstood
+- u took it in a wrong way
+- it is wrong
+- it was not right
+- it is totally wrong
+- you don't know anything
+- you did it wrong
+- u did it wrong
+- this cannot be right
+- this is wrong
+- you said it wrong
+- this will be wrong
+- you are useless
+- you are incoorect
+- u r incorrect
+- you did not understand anything
+
+## intent:smalltalks_recommendations
+- Start symptom checking
+- Treatments
+- Emergency Contact
+- Connect with doctors
+- Home remedies
+- Doctors near me
+- Medications
+
+## intent:smalltalk.2_emotions.ha_ha
+- lol
+- xd
+- ha ha
+- ahahah
+- ahah lol
+- laughing out loud
+- LMAO
+- that's funny
+- ah
+- ah ah ah
+- ahah
+- ahaha
+- ahahaha
+- ha
+- ha ha ha
+- ha ha ha ha
+- hah
+- haha
+- haha funny
+- haha haha haha
+- haha that's funny
+- haha very funny
+- hahaha
+- hahaha funny
+- hahaha very funny
+- he
+- hehe
+- hehehe
+- lmao
+- joker
+- its funny
+- it's funny
+- that is funny
+- very funny
+- you're funny
+- that was hilarious
+- that's hilarious
+- how do crack such jokes
+- that was fun
+- That was a good one
+- It made me laugh
+- It cracks me up
+- I burst out laughing
+- I couldn’t stop laughing
+- It was amusing
+- It was comical
+- It was humorous
+- It was priceless
+- It was side-splitting
+- It cracked me up
+- It had me dying of laughter
+- i'm rolling on the floor
+- i'm crying of laughter
+- that's humourous
+- that's witty
+- how do you make such good jokes
+
+## intent:smalltalk.2_emotions.wow
+- wow
+- wow wow
+- wow wow wow
+- wooow
+- woah
+- woaah
+- wow man
+- whoah
+- woow
+- wow!!
+- wheey
+- wow buddy
+- wow guys
+- wheezy
+- wow!
+- woah!
+- its amazing
+- bravo
+- wow! it was amazing
+- wonderful, it is amazing
+- amazed
+- woah! its amazing
+- it is amazing
+- amazed!!
+- amazing
+- wonderful
+- its wonderful
+- it's wonderful
+- it is wonderful
+- it's amazing
+- bravo!
+- woaah!!
+- that's amazing
+- that's great
+- great
+- that's cool
+- cool
+- awesome
+- that's awesome
+- unbelievable
+- i'm speechless
+- it's great
+- i'm impressed
+- that's impressive
+- i'm suprised
+- i'm in awe
+- that's suprising
+- that's ashtonishing
+- marvellous
+- that's wonderful
+- stunning
+- fabulous
+- magnificent
+- mind blowing
+- outstanding
+- remarkable
+- good job
+- you're doing great
+- keep it up
+- that's worth it
+
+## lookup:disease.txt
+  data/nlu/disease.txt
