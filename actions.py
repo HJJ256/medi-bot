@@ -432,7 +432,7 @@ class ActionResponse(Action):
                               dispatcher.utter_custom_json(shan_text)                
             elif "locate" in intent:
                       url='https://maps.googleapis.com/maps/api/place/textsearch/json?'# where you will send your requests
-                      api_key='AIzaSyDEnYOHrSNCjqfS3dNr_SZnPjMzU8RT5zQ ' #enter your api key generated, if not generated then generate at https://cloud.google.com/maps-platform/?apis=places
+                      api_key='' #enter your api key generated, if not generated then generate at https://cloud.google.com/maps-platform/?apis=places
                       url2 = 'https://maps.googleapis.com/maps/api/place/details/json?'
                       def maps(search,location):
                           x = []

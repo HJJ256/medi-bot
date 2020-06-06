@@ -45,7 +45,7 @@ action_endpoint:
 #tracker_store:
 #  type: mongod
 #  # <url to your mongo instance, e.g. mongodb://localhost:27017>
-#  url: mongodb+srv://medi-bot-rasa-testing:medi-bot@cluster0-opfgi.mongodb.net/test?retryWrites=true&w=majority
+#  url:
 #  # <name of the db within your mongo instance, e.g. rasa>
 #  username: medi-bot-rasa-testing
 #  password: medi-bot
